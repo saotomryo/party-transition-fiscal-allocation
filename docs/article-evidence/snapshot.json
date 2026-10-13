@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-13",
+  "descriptive_rows": 64,
+  "descriptive_combinations": 16,
+  "inputs": [
+    {
+      "path": "data/panel.parquet",
+      "sha256": "446d432d8f59e1a9d2d6b3abed31c8ea20b3936497a9dc7d095e9e518fa899e5"
+    },
+    {
+      "path": "data/analysis/alignment_cohorts.parquet",
+      "sha256": "b4ee0be82a576dd916284fe00103ab13ba09dcfc2c1bbdefdf24febe632bb1b2"
+    },
+    {
+      "path": "data/analysis/grant_components.parquet",
+      "sha256": "ceddabd6bc5b3a81b6a0fc8028247537f504179c739f0869d949033079af4fc2"
+    },
+    {
+      "path": "analysis_view.py",
+      "sha256": "2a97b72b006be9d99395723844a3673e436fa52e8631b6b98ba0030296556829"
+    },
+    {
+      "path": "alignment.py",
+      "sha256": "7d1352b8c8cbf29381cf723206d33c36631ef3e8ceb3b3e7faac1463026d0f4d"
+    },
+    {
+      "path": "finance.py",
+      "sha256": "7b7050e292aef5adc85f51bb3fc508c6a8636702c1a55d314732f40d5864218a"
+    },
+    {
+      "path": "elections.py",
+      "sha256": "5391bd4ab1ea4c880f6876ce5e62e6f136f2dcd4aab12e6fd977f5309cfaa8f4"
+    },
+    {
+      "path": "certify_results.py",
+      "sha256": "f2c8cd30c41408729ca6b068c7f2911113f3f2176863fbc64f99cd65044c6cfd"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "42a633fdbdef5a512a4207873c26630f8b5f454353b28ce42b7dc8514d8544b7"
+    }
+  ],
+  "network_check": {
+    "official_hosting_documentation": 2,
+    "success": 2,
+    "failures": 0
+  }
+}

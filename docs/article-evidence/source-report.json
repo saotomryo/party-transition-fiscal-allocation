@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://www.komei.or.jp/news/detail/20121226_9916",
+    "status": "success",
+    "bytes": 50832,
+    "sha256": "fa393f6860ccc520efba4c7dc71907adbee9160cb550a3083d73239858b79637",
+    "file": "data/analysis/raw/coalition-source-1.html",
+    "recorded_at": "2026-10-12T22:53:11.798686+00:00"
+  },
+  {
+    "url": "https://www.komei.or.jp/news/detail/20171102_26181",
+    "status": "success",
+    "bytes": 45167,
+    "sha256": "c19a1ebc8adeb1aec878eae6606ae8e78fd91e7c6467f2bc9e94a15298da64bb",
+    "file": "data/analysis/raw/coalition-source-2.html",
+    "recorded_at": "2026-10-12T22:53:11.798693+00:00"
+  },
+  {
+    "url": "https://www.komei.or.jp/komeinews/p120939/",
+    "status": "success",
+    "bytes": 45715,
+    "sha256": "e1276cb58153d5dcc675a4971878be3085561d1d52f8c8711e36c2082f9d4836",
+    "file": "data/analysis/raw/coalition-source-3.html",
+    "recorded_at": "2026-10-12T22:53:11.798695+00:00"
+  },
+  {
+    "url": "https://www.jimin.jp/news/press/202278.html",
+    "status": "success",
+    "bytes": 70863,
+    "sha256": "bb2100d172f5aebea659e7c262170987e4ccd398edb7d83d309b2015765f276e",
+    "file": "data/analysis/raw/coalition-source-4.html",
+    "recorded_at": "2026-10-12T22:53:11.798696+00:00"
+  },
+  {
+    "url": "https://www.kantei.go.jp/jp/rekidainaikaku/101.html",
+    "status": "failure",
+    "error": "404 Client Error: Not Found for url: https://www.kantei.go.jp/jp/rekidainaikaku/101.html",
+    "recorded_at": "2026-10-12T22:53:11.798697+00:00"
+  },
+  {
+    "url": "https://japan.kantei.go.jp/past_cabinet/index.html",
+    "status": "failure",
+    "error": "404 Client Error: Not Found for url: https://japan.kantei.go.jp/past_cabinet/index.html",
+    "recorded_at": "2026-10-12T22:53:11.798698+00:00"
+  },
+  {
+    "url": "https://www.komei.or.jp/about/history/",
+    "status": "success",
+    "bytes": 54787,
+    "sha256": "3ba86935c22f33f7571a3937109794d58c428686052fe2833b87c280ce28c7bb",
+    "file": "data/analysis/raw/coalition-history.html"
+  }
+]

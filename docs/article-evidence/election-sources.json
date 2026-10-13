@@ -1,0 +1,2862 @@
+{
+  "sources": [
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/index.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_index.html",
+      "sha256": "84f8bdf1f23ec6f9f3e964bf3f3b6ddbed80f9e8679a2396014f183892f4357c",
+      "bytes": 42713,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.353667+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson.html",
+      "sha256": "fc94be60659b1b751912b9488248623884163a97de637d6dc6a5d0e6efdfcc76",
+      "bytes": 42974,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.372256+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_01.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_01.html",
+      "sha256": "1ab5f73ad69634d4ed080b1908a484e9d0a34a224dddffb5796a1dc0bf86d42b",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.379527+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_02.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_02.html",
+      "sha256": "8c3b792cc69f37549f6ffb6b64b95bf3ac043ba899893925abbf6a27f25933b2",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.386094+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_03.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_03.html",
+      "sha256": "5c69694e5d27624f4ccfb81bcfbbfe8060a9582195a0e8fa5d2001438080f223",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.392440+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_04.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_04.html",
+      "sha256": "6eac0d16e2efb2361cd606d3f77620d59247b5f640c98bfefa5a37ebf25e62cc",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.398492+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_05.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_05.html",
+      "sha256": "d3367c763af368cdba5dc0937a52023ae568448d8b50716dfdd97ad6a450ceb1",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.405036+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_06.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_06.html",
+      "sha256": "b39dcf7e97d20c3c764b61f67f9672867100116de2a2bcd815457949eeede24d",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.411033+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_07.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_07.html",
+      "sha256": "af96447f5a83724b9d8a35b4e09d946f8e18dc4ff02e27552c6f26b12e22beaa",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.435137+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_08.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_08.html",
+      "sha256": "07db5a3395ecb76e07209e6ace5e239a7efe6188187bfe0fb3ab121722150961",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.452427+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_09.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_09.html",
+      "sha256": "dfa131745a2fb3fd4774a4f087a4560b938349d91e84a57a96a251cf4cd36b95",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.463917+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_10.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_10.html",
+      "sha256": "981c9fae75109586f331e8ea13d9151157b91ac0884a19535f195cc37de212ef",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.470738+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_11.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_11.html",
+      "sha256": "e0a521c5ce99d4d0c7691b0186e890e94d30731e55e27b96caacfcaafe7349a5",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.476791+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_12.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_12.html",
+      "sha256": "ad2920d42f52dcae70e2b37b2466e797cd4ce90035d95bc12b7a7edae7991ba5",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.483048+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_13.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_13.html",
+      "sha256": "b26f6c1f12d4860e466aa9ae101a326efc7e7f798ecaa0a55ccc178f1edd1225",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.489459+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_14.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_14.html",
+      "sha256": "225e971c0dbd71d7aa1759c55681ea3e56dc8de05813148f5c573e21264c0264",
+      "bytes": 39161,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.495380+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_15.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_15.html",
+      "sha256": "d1f77a5fbe69d6ce5111cbfb29a1634d3d76a478eb39dbffcd25072b3953c6da",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.501311+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_16.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_16.html",
+      "sha256": "a43b7b2128035c4ec3ca291fc41e72f461dee3743951817da5c60239ff6670d9",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.520161+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_17.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_17.html",
+      "sha256": "c37b2eba33a9287dc3b836db5cbe859b30a493ae88256e010744c6c7bab4df48",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.526094+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_18.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_18.html",
+      "sha256": "b29ee37bf9b15d9d99ba04964a90a81507b1b6aeaa205136964ea09ab42bc172",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.531899+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_19.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_19.html",
+      "sha256": "d8f5e4b4f0e8185e867ee2a9b7b3d2729fca32f5a50a33cdff65e9a879674264",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.538361+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_20.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_20.html",
+      "sha256": "decbcaf8db68ed6965f2dde5dd0e3f1bd29d5902fb9b499124210513523dd1b9",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.544312+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_21.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_21.html",
+      "sha256": "7e0e6bde7459c4175d39ce610c701203f28c5c022c6e69a83864e3d836086830",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.550815+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_22.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_22.html",
+      "sha256": "7e4707fed736b6eaccdda31baf732f4840b6a7cbbd8cdb8f5f8e4f014b360b92",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.556877+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_23.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_23.html",
+      "sha256": "4febbbc8a8b47e5677363021270b9bad2a4d0e775bc24ec1c4f4d9c9495302c3",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.562868+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_24.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_24.html",
+      "sha256": "cef8ff92f018a1f93d7319e74bf6a17dd2ea7e33b2a5cf6ad340e1054a3ee95f",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.569589+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_25.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_25.html",
+      "sha256": "7c1f88991ee824b176e512a2ad552d2e40ebc92ef9dc70ff0685a245a81c4830",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.575556+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_26.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_26.html",
+      "sha256": "0dea3e5746c5571c0e4008f46f0787297c54bb9f5b84dd18b19be349474532ae",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.581608+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_27.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_27.html",
+      "sha256": "7478ec02b709f270db40c088bbb98e2636c1badb9be6e886d931798546efa9ff",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.587986+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_28.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_28.html",
+      "sha256": "68a71158294fa1cf4c1a098200ef1183f852d6482bd2945adef5de591792b8c7",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.593893+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_29.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_29.html",
+      "sha256": "957401554582739b071caa5128efc43fb18e1dcfba16b19e26f080326b44a622",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.600487+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_30.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_30.html",
+      "sha256": "c9033d98e4c78dfb28418d595fde74c22e8147387b19edec58dceca28fa30288",
+      "bytes": 39161,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.606957+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_31.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_31.html",
+      "sha256": "6e32b42d3b2dc30811cb6d5d4bc882f7d1f3fa8414ddcfe6c6f7c63416da4f9b",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.613087+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_32.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_32.html",
+      "sha256": "33f6c626ef90f404be5b5bcaf8773dba02a42a6125cb8df862a365ecd14a71be",
+      "bytes": 39378,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.619618+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_33.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_33.html",
+      "sha256": "11b2b12cb7228defbe4316dab3ca648cb32c4c010e516d0e7912a20a28b04725",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.626081+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_34.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_34.html",
+      "sha256": "20bfe20b9ee2c6d1b40620b6779a3d8dc254218d7a491c0fec99e09b6799b59c",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.632309+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_35.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_35.html",
+      "sha256": "902d27de49ac4b758bfe21e3b7231b48c93ed76ab491b7838b1796f486d4898d",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.639307+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_36.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_36.html",
+      "sha256": "0141079a6e98e52953aade0291b253762952c8e8e5928c45dd535f4c23b92dd8",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.645585+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_37.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_37.html",
+      "sha256": "372cf3d2f8734ae4b4ead368c3933447907b4785e81435c628d339d2ec340b77",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.652143+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_38.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_38.html",
+      "sha256": "b4d6698ff9c4f0ca134351ca65da7e44a7f6bdbccffa80841f678b42f08f61d6",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.658862+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_39.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_39.html",
+      "sha256": "41387990ef9ed3ad325cfa5c1e4ce85455a3706da9ac7509a9228833368576ff",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.665212+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_40.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_40.html",
+      "sha256": "ba57ebacc8e16fb03510e815e3956edfb0d69cc3307ac47ac0be766d98a82f33",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.671986+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_41.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_41.html",
+      "sha256": "094bd1093bd1c9e2d0c8159915605cd991c2818fdf5c289f042e75ef189d3617",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.678352+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_42.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_42.html",
+      "sha256": "8025cd12d1acbb03039b2ef5a754d23bfbe14e37f63c56cd1d031b63e9d36fa0",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.684420+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_43.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_43.html",
+      "sha256": "420131c7cb7fcb193460f895fb2b56b1ae7168d02a6be11ddce8393a3c994ca6",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.690995+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_44.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_44.html",
+      "sha256": "05c8dc9bbc5da9af62d513df3accd2660b09bffc8613080b7cdef01ce479e8cb",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.697136+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_45.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_45.html",
+      "sha256": "bf9dc67a9d4d59e1afeb35d9d1853dcb40063b2e03737d5531487ab046b35282",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.703854+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_46.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_46.html",
+      "sha256": "02a5063261b877863cefc808b2a87f0a4d53489cba27e0e0912d5771d33e4df4",
+      "bytes": 39161,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.730752+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin47/shikuchouson_47.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin47_shikuchouson_47.html",
+      "sha256": "e6b202e326598359b3be4030c0c2741d5dcc503d8d203073565bb1368a4edfe3",
+      "bytes": 39153,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:37.737002+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343204.xls",
+      "file": "data/elections/raw/main_content_000343204.xls",
+      "sha256": "e8b7c7046a0844bb3ee2a99486a74b05dda6e9e0a30c171f79fa050ff5790f4b",
+      "bytes": 118784,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:43.440230+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343206.xls",
+      "file": "data/elections/raw/main_content_000343206.xls",
+      "sha256": "e788305a42dae877abd45177ad62d8bb4c9ba9e2450d21725274d492ef706102",
+      "bytes": 49664,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:44.202203+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343208.xls",
+      "file": "data/elections/raw/main_content_000343208.xls",
+      "sha256": "6a20cb17aa389e84d1eaf0154ce4ad039e15469537b8280b17b72b5e116e3b35",
+      "bytes": 49152,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:44.353875+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343210.xls",
+      "file": "data/elections/raw/main_content_000343210.xls",
+      "sha256": "6a74def4ce8bd711b09c6057e8a192d1bf11998d083839d4b8fea2e1ac26d245",
+      "bytes": 60928,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:44.491990+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343212.xls",
+      "file": "data/elections/raw/main_content_000343212.xls",
+      "sha256": "9001c02ca0dbea478308ba8a2a71b19908667d534d1daf2580cd01311616f5d7",
+      "bytes": 43008,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:44.668284+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343214.xls",
+      "file": "data/elections/raw/main_content_000343214.xls",
+      "sha256": "255b29b509593a0b710c989534b31e517d599be4b277b2e7ad6f9bded9456077",
+      "bytes": 44032,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:44.783189+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343216.xls",
+      "file": "data/elections/raw/main_content_000343216.xls",
+      "sha256": "edb5aa911f9fcddebe0bc85b4072d03c3bfb29b32aa995848238124c253c8130",
+      "bytes": 57856,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:44.922748+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343218.xls",
+      "file": "data/elections/raw/main_content_000343218.xls",
+      "sha256": "114fef6edce9284c2620570e2320325c17565b49f06c7fb3bb0d4af1ff7374de",
+      "bytes": 68608,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:45.154427+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343220.xls",
+      "file": "data/elections/raw/main_content_000343220.xls",
+      "sha256": "db359faa9369a48cb1689d32243bef17d1898aaca0ab51fd815c68e338af05d6",
+      "bytes": 54272,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:45.349539+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343222.xls",
+      "file": "data/elections/raw/main_content_000343222.xls",
+      "sha256": "4f400ceba43929e2eee55e737dcfac26350acef52922cc0ea5b8f5ba8801b468",
+      "bytes": 55808,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:45.461779+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343224.xls",
+      "file": "data/elections/raw/main_content_000343224.xls",
+      "sha256": "9c2a576781f6543891e9ebbf0ad3acd01d64370de6b1929a447f4f028c84e370",
+      "bytes": 115712,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:45.611519+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343226.xls",
+      "file": "data/elections/raw/main_content_000343226.xls",
+      "sha256": "8486dab0903be94d8c91d56bef0aed295f52a795deda774c4c8af2fbbaed0e73",
+      "bytes": 104960,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:45.900607+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343228.xls",
+      "file": "data/elections/raw/main_content_000343228.xls",
+      "sha256": "1936d17b7556e231d2b33b91ec17c88520101512d5fff6d447db55f009833ead",
+      "bytes": 174080,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:46.132487+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343230.xls",
+      "file": "data/elections/raw/main_content_000343230.xls",
+      "sha256": "a968aba434a5e2ad661e585ff1c41153acf1b2e4806ed8f50dd1d1f1b9e923f7",
+      "bytes": 133632,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:46.394913+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343232.xls",
+      "file": "data/elections/raw/main_content_000343232.xls",
+      "sha256": "d0b4b623e384f7f030a3539688d3795fb16aa74bb1753465d8a184db6c951dd6",
+      "bytes": 61952,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:46.603691+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343234.xls",
+      "file": "data/elections/raw/main_content_000343234.xls",
+      "sha256": "dae0782588bc01abefa79fc1bfc5d592f59e07dd5bde9806d99e7ea1083bb591",
+      "bytes": 41472,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:46.732359+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343239.xls",
+      "file": "data/elections/raw/main_content_000343239.xls",
+      "sha256": "ec6d3809fe0c560c2addd02502b002b9cf8da654022a1ca707a6b14d0ae946de",
+      "bytes": 42496,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:46.777667+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343241.xls",
+      "file": "data/elections/raw/main_content_000343241.xls",
+      "sha256": "4459fb257499088ea30aac980ec07dd22f18d6a99382a08df80c2c2b1e843f76",
+      "bytes": 35840,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:46.829576+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343243.xls",
+      "file": "data/elections/raw/main_content_000343243.xls",
+      "sha256": "a6286cc8c24e129177e9b4dfc223d99fcb23f392f1b80e2f6a8fb0297b7b2939",
+      "bytes": 36864,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:46.875116+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343245.xls",
+      "file": "data/elections/raw/main_content_000343245.xls",
+      "sha256": "c9ff524eda5fb037af6127cb3bc11c49fc2910e0ea59f951ec1c9637df7bc5be",
+      "bytes": 61952,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:46.956117+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343247.xls",
+      "file": "data/elections/raw/main_content_000343247.xls",
+      "sha256": "fbe03540103c50bda5aeacbfa6bfa4a95561dbf52e88f2e038259a30b66d1969",
+      "bytes": 55808,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:47.185882+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343249.xls",
+      "file": "data/elections/raw/main_content_000343249.xls",
+      "sha256": "ca9c59b5a6b726ee444b6b6aa341dfcbbf3c623322bf131da7f2fa0d0c7c2194",
+      "bytes": 74240,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:47.324111+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343251.xls",
+      "file": "data/elections/raw/main_content_000343251.xls",
+      "sha256": "1c3d3bf7eb88890a5c4eb31ce15b60d42c5e1d4f816243043a79c889e70cc17c",
+      "bytes": 117248,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:47.520317+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343253.xls",
+      "file": "data/elections/raw/main_content_000343253.xls",
+      "sha256": "24ac456c32fc71641161e9844ac026a07393dc7fd51e2e1b091397d8d97f1d45",
+      "bytes": 55296,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:47.817212+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343255.xls",
+      "file": "data/elections/raw/main_content_000343255.xls",
+      "sha256": "21850b6e15983a9017c519b1bb5f6b1f449d7e5018972078ed77e67e5e7475bf",
+      "bytes": 47616,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:47.939672+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343257.xls",
+      "file": "data/elections/raw/main_content_000343257.xls",
+      "sha256": "7fd51b5c7fd077ddb87bec51418efd9868bbb71a2c27eef7e8dfb1a8cc610bc7",
+      "bytes": 61440,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:48.018250+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343259.xls",
+      "file": "data/elections/raw/main_content_000343259.xls",
+      "sha256": "19f91016371d1fb7e47fdb0a9c8b62fe29fa9b1ff375f9a8d1e623cd3d486597",
+      "bytes": 138240,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:48.165620+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343261.xls",
+      "file": "data/elections/raw/main_content_000343261.xls",
+      "sha256": "1378bc95f5fd12f021d48fb78274ec4a1af02f9647eb14448e3ab471dda88e2f",
+      "bytes": 96256,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:48.493746+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343263.xls",
+      "file": "data/elections/raw/main_content_000343263.xls",
+      "sha256": "8c90b4589940427c9e720bcaa9b51e65dffdeb9799b91adde26b0cbe1db5a565",
+      "bytes": 49664,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:48.728051+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343265.xls",
+      "file": "data/elections/raw/main_content_000343265.xls",
+      "sha256": "eb87942995504032b0a20a05a68a3ed99bda55dcb2fd98566decca2297639caa",
+      "bytes": 43520,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:48.926767+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343267.xls",
+      "file": "data/elections/raw/main_content_000343267.xls",
+      "sha256": "7fbb17d5c7930fc8f1051d658457718a02f3a7df003cd4494b6bf6071861d861",
+      "bytes": 35840,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:49.060500+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343277.xls",
+      "file": "data/elections/raw/main_content_000343277.xls",
+      "sha256": "8aaf51ffe1742ee80574a55a008b325f49ab7f5d919632b9308d4144a2e6954a",
+      "bytes": 36352,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:49.142254+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343279.xls",
+      "file": "data/elections/raw/main_content_000343279.xls",
+      "sha256": "ba2815a2f2a8f7b1b5b704889d73a67e8defbc5858a09fd742a0c4397d2bd39f",
+      "bytes": 55296,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:49.234281+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343281.xls",
+      "file": "data/elections/raw/main_content_000343281.xls",
+      "sha256": "df95e12fb7c0be198604d97cd61501b5d820c702b966aa9bce3ad887d9e6ffd3",
+      "bytes": 67072,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:49.401531+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343283.xls",
+      "file": "data/elections/raw/main_content_000343283.xls",
+      "sha256": "7074601f6023e7ecb299d7ed6d7af525929aaeea9e922abba4d09da4eb46f9b8",
+      "bytes": 47616,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:49.571847+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343285.xls",
+      "file": "data/elections/raw/main_content_000343285.xls",
+      "sha256": "ac0675cc62a82f014e3914b1cb7d983539efeabd7b6304a30a9fe02702a9463c",
+      "bytes": 36352,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:49.676734+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343287.xls",
+      "file": "data/elections/raw/main_content_000343287.xls",
+      "sha256": "61c60b0f0ecbe7b480c9361e4ea249137532a0ba83deb8d3bb2330b64a2ebc91",
+      "bytes": 41984,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:49.821642+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343289.xls",
+      "file": "data/elections/raw/main_content_000343289.xls",
+      "sha256": "1155df5a9669834bc0c49f0287cd277f69fdd71d608a764b662cba4c0cd95b34",
+      "bytes": 47616,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:49.937604+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343291.xls",
+      "file": "data/elections/raw/main_content_000343291.xls",
+      "sha256": "d435d0ca860d51ff32d2ea3e8a0cf750d110df03a59f0ac43c3ea21d3fb9b19b",
+      "bytes": 37888,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:50.195394+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343293.xls",
+      "file": "data/elections/raw/main_content_000343293.xls",
+      "sha256": "a5fd7cc11e9ea68a8e7f090c3a07516ff87dc75a80990ac9dc0dda611b69ce82",
+      "bytes": 94720,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:50.388901+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343295.xls",
+      "file": "data/elections/raw/main_content_000343295.xls",
+      "sha256": "e1fe0336eb88a36883d78a4405b80dfdf51a4c0315b06e8d68e3062d760ab0a5",
+      "bytes": 36864,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:50.800261+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343297.xls",
+      "file": "data/elections/raw/main_content_000343297.xls",
+      "sha256": "be237fe320c9009ee07853c6454140f9bfc6a0ed42282556f856275f63c9c382",
+      "bytes": 49152,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:50.904873+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343299.xls",
+      "file": "data/elections/raw/main_content_000343299.xls",
+      "sha256": "3bb412366f991959c22402ca7ceaea15b0e3e7431c25eececf7c7d927ff0cfd2",
+      "bytes": 56832,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.030658+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343301.xls",
+      "file": "data/elections/raw/main_content_000343301.xls",
+      "sha256": "0efa0e22e917cb721ae94e0fa04df5274f264f7d4674f81e28b50ac6b06ed494",
+      "bytes": 41472,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.279381+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343303.xls",
+      "file": "data/elections/raw/main_content_000343303.xls",
+      "sha256": "74ca624ecb13e4c8d2944b40a99c50cecc8dfe8ee6e8482f38173f4399b3e094",
+      "bytes": 46080,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.363442+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343305.xls",
+      "file": "data/elections/raw/main_content_000343305.xls",
+      "sha256": "285f039b75ffe1c8ea190ef5336da5cae9fce8cbe615f136239166e03490909f",
+      "bytes": 55808,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.471620+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000343307.xls",
+      "file": "data/elections/raw/main_content_000343307.xls",
+      "sha256": "3112ca6d04578fb419b1a66976c837adaf1b783c40ab7548fcc1489840e6a483",
+      "bytes": 50688,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.670308+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/index.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_index.html",
+      "sha256": "e39da176eb4d6f64df6eb5de41bd3742a012494d8cfe153746112d4acfb2a8ea",
+      "bytes": 42803,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.832935+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson.html",
+      "sha256": "b8dec07c0079174eb14916158678e56dfe3c52182f2a5a6e940034f9d6048770",
+      "bytes": 42764,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.854437+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_01.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_01.html",
+      "sha256": "a75c23c326df4fbdc92667c7f8d74089f12e02b206954b6106075a24cc9c445b",
+      "bytes": 39047,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.907268+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_02.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_02.html",
+      "sha256": "4852fb2b95ee8cbfa406d3081f16d5b2ef360d1f8a19382df56faf6b4b637ac3",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.925298+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_03.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_03.html",
+      "sha256": "9af3ad2b6677683af2059b99c697747be375ae24d3aab83de18f7056e2bb73b2",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.937703+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_04.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_04.html",
+      "sha256": "2fe988a3b32844db83a595e8ce9176219e918e850f295fdef6cfde622659f339",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.947893+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_05.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_05.html",
+      "sha256": "2ab5459f65ab5843d5d5c7de7951620afabfa63255bd0957a6aeb877679b9a0e",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.961250+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_06.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_06.html",
+      "sha256": "6224670626642affb8de4d8d9ea264c25fdd15c2f0d1d9e00bb0408f1f17b671",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.977636+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_07.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_07.html",
+      "sha256": "f3381e474e6f85ee64326d2b4c52b5eb11c0d95ef174ba07e7df026ffd92449a",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.987740+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_08.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_08.html",
+      "sha256": "51f6527362aad2e0b053901b98defad6f040c2b84281af40200d26352b175380",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:51.997272+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_09.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_09.html",
+      "sha256": "171fbdce4f7c017fcb8bc0a9ae5046a350e9d164b966f0c8896295852cecffdd",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.007799+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_10.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_10.html",
+      "sha256": "b430d52e890b7070e43fb992f837eb5ee0d0c5129583a96f1b22def16961795d",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.016930+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_11.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_11.html",
+      "sha256": "b164f03260684ed3be29bc188dc2a20ab3e8de5a011509537b00bac4c3fb5fe3",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.026774+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_12.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_12.html",
+      "sha256": "746ae309b94be951acbe009a25c12c49a3319c8b8ddfe93b8f078b4f9ae05783",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.036299+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_13.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_13.html",
+      "sha256": "ddcc400eac6421ffb5505206905a86d9250b9f372dc56dab580b1e1c5ebc307b",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.045442+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_14.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_14.html",
+      "sha256": "ce4ae41fd419af7a276ccb68618f99410d4757de5a634cbc689f059b1d3d6dbb",
+      "bytes": 39155,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.054979+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_15.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_15.html",
+      "sha256": "79ce62532dfc7cee86a43fa8db148c8883133f27acd48841ec69e9a77e46b9f4",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.064623+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_16.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_16.html",
+      "sha256": "3019896fef7a6d17eb50abdcf834a83c2d0a8b4898e77e35a52ae1c4b3662da1",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.073400+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_17.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_17.html",
+      "sha256": "e514f7bd431e2efe179adb31fa148c76e711fbd4858be2cfa4f77af626c94fd9",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.082467+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_18.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_18.html",
+      "sha256": "b38eed9b6c3ae299fa6175bd0c2869bd6c6b6884de620bcd85346d9c57d78331",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.090781+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_19.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_19.html",
+      "sha256": "63ce4986330e0bedfed8c346c4e8eb373bfde2d19ef7968bcfcb60f42829c370",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.099340+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_20.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_20.html",
+      "sha256": "3e5d4b4103ca185003946c4314924412fce9867b0339098b75d689fa14e072f5",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.108259+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_21.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_21.html",
+      "sha256": "eee8aa4eb65cf11ad0e089e606c4c785bb6085aeb4797326d4480ab874ab19a7",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.116284+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_22.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_22.html",
+      "sha256": "25f81f1a25cc7a9d455dce35905effa5980943efa1f236fa195b365835a2b8df",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.124858+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_23.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_23.html",
+      "sha256": "84a671e11c22451c9fd07293f272eaee079f07c1c73c7e4347a3e4b0041b2afa",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.133089+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_24.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_24.html",
+      "sha256": "acf22950d19e84fc065422ab3812542bdda0fedbda5f7376403f46111b9f9d8b",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.141235+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_25.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_25.html",
+      "sha256": "9094f17e379207f26a1652186a2b282a3ee9c661f0f06a7eef8b2dec1ae49b24",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.149944+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_26.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_26.html",
+      "sha256": "a8962c0bd2b5db53b245c7f734e93865702e03cc72274ccbca184052058939a9",
+      "bytes": 39239,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.158006+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_27.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_27.html",
+      "sha256": "573b1701c183460d8020237f4c5007d84f44a7f39f49d52dbdebb5f5fe588212",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.166512+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_28.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_28.html",
+      "sha256": "e8b3ad110baaae0c9f7ddfb75d22e3263ff74d84ceddbea9ff6630bf36a89d74",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.176119+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_29.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_29.html",
+      "sha256": "2bc58c27de418f216023c49be8fb7562fee33e059b15299775e9f4856b6de9c7",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.184447+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_30.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_30.html",
+      "sha256": "9d9bd71a614a971650f9f36b26f74dfd435be95fe1f21b6d2daecfd0c9556229",
+      "bytes": 39155,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.193012+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_31.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_31.html",
+      "sha256": "04ad2a6d89fa8a75cacf374b7b1f0f5b568f880794b3cb806aa5df57d705b425",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.225418+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_32.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_32.html",
+      "sha256": "39446c217239381b45f9863c5c0baf2a50ff34a0be4262987c14f522b4c1a9a9",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.232906+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_33.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_33.html",
+      "sha256": "1f2ec3ed5dc8edfa6fab7228e3b3759ddffe6cc535cf5b54d00535589131abc1",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.240743+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_34.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_34.html",
+      "sha256": "dcfe35d3dbaa206d65e0940dac0baba4efa78ca78883e6b4daa3d8a983aee4fe",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.248114+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_35.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_35.html",
+      "sha256": "e824c7ba5625e31dc976b524453bf1ca0013b48a24c427d78f394c696d759c37",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.255678+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_36.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_36.html",
+      "sha256": "d46878b7809195cbc4459764d51c378425099694dca0ef9492db27e5a9d3ba65",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.263748+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_37.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_37.html",
+      "sha256": "28df05d4bce214a84a8ba4c55e0703d55284e1d06cf69a465631f0a4b23f272f",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.271104+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_38.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_38.html",
+      "sha256": "fa2d78fa823743d0a8c45646db19ff94a0259e7df588440f2b99d4aea26326fd",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.278500+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_39.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_39.html",
+      "sha256": "47548c747457c4c101f0011667ce49ac1834219cf210783229ae9da2458273e9",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.286588+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_40.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_40.html",
+      "sha256": "4b0ebdad2644e800c39f317979265f071f4363f4b39498092e05e01eaccf5a54",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.294385+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_41.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_41.html",
+      "sha256": "2ce20563e1d3b786391042d8e33d74df22164ce2fc03082af264b07e2c743105",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.303119+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_42.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_42.html",
+      "sha256": "b20c36f465605ea75d0d5a3b27946757be934fd75f9ac1557e4f78ae4ed8f7e2",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.311452+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_43.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_43.html",
+      "sha256": "4ffb03a8f76fcf13b45868d86315d284d010e973084305f9b9aad24d15fb83f9",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.319771+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_44.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_44.html",
+      "sha256": "8b8949555bfc7e20732eabb6fc9085067f76e2989cb57698b47400972a9555ba",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.328731+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_45.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_45.html",
+      "sha256": "38b279dacde8ab0cae217a7c2ae6c3a64fb2aad2da3b2182d09bd3026a6e7b52",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.336813+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_46.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_46.html",
+      "sha256": "f043d148cea3d1f2a89cb84d736a3572ecb6cf081c8047f7814247c05de75161",
+      "bytes": 39155,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.345119+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/shikuchouson_47.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin48_shikuchouson_47.html",
+      "sha256": "62d1e553de74480f7cda4473c9e65ced864751f1aafae6288666a8e1e3ad30c5",
+      "bytes": 39147,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:52.354059+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520874.xls",
+      "file": "data/elections/raw/main_content_000520874.xls",
+      "sha256": "3ec0b82ea5c5c0d01b389a357af48b400955e9ea259349e96d26ad836fe244af",
+      "bytes": 132608,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:57.761589+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520876.xls",
+      "file": "data/elections/raw/main_content_000520876.xls",
+      "sha256": "0e60e18c8175d2b354832699abebe00dbe629081a497b0779484d0f527a9b162",
+      "bytes": 48128,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:58.846120+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520878.xls",
+      "file": "data/elections/raw/main_content_000520878.xls",
+      "sha256": "2b117f4f766cb3fd49c6d97284e8e93d60c9d5a15985b73ed34e15cc4f7492a9",
+      "bytes": 48640,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:59.062744+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520880.xls",
+      "file": "data/elections/raw/main_content_000520880.xls",
+      "sha256": "3c8bc222e5cfbd29bd334a379b5bb5a317184ccc93cbbb3621000dab7952fb43",
+      "bytes": 69120,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:59.249834+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520882.xls",
+      "file": "data/elections/raw/main_content_000520882.xls",
+      "sha256": "2b4550d98dd58ed281fe7a3e06506688077fdb02c02652c9b654afaeb988106c",
+      "bytes": 46592,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:59.521624+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520884.xls",
+      "file": "data/elections/raw/main_content_000520884.xls",
+      "sha256": "a729a2613f2683a51c6bff944b473abe4e64e37d799ec59610563707ae521fe5",
+      "bytes": 47616,
+      "cached": true,
+      "checked_at": "2026-10-12T03:06:59.783837+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520886.xls",
+      "file": "data/elections/raw/main_content_000520886.xls",
+      "sha256": "95769e7e2a8aa7d214cf88f891c21819f6c54f80f3b3bfe60068f146717a1317",
+      "bytes": 65536,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:00.089037+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520888.xls",
+      "file": "data/elections/raw/main_content_000520888.xls",
+      "sha256": "d3c80016ec17d6a3afda726fc715f712781f093cfe66734ce74b13cb9e8dc29b",
+      "bytes": 77312,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:00.444082+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520890.xls",
+      "file": "data/elections/raw/main_content_000520890.xls",
+      "sha256": "385aaa7ea46d2020b04bea24596eb1b96ea43a89fa6882b40c80a690fe41b089",
+      "bytes": 61440,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:00.788521+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520892.xls",
+      "file": "data/elections/raw/main_content_000520892.xls",
+      "sha256": "8282f637d122e951596ef2ffb8a279be1f55db2ca982a1131bf4ec7ed7ae1d65",
+      "bytes": 61952,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:01.000718+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520894.xls",
+      "file": "data/elections/raw/main_content_000520894.xls",
+      "sha256": "eeb3fb8b6a53df651f10d66c8c5162834212b9762678ac7638350eaa29882f19",
+      "bytes": 136704,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:01.237316+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520896.xls",
+      "file": "data/elections/raw/main_content_000520896.xls",
+      "sha256": "24912f7da781299b430f280a528799c422aa0ddbbb1245156215df60129b5549",
+      "bytes": 120832,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:01.765924+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520898.xls",
+      "file": "data/elections/raw/main_content_000520898.xls",
+      "sha256": "3b5899988f885a63c5137bdeeb9eb9b5334d99e24a3fbd3fe181fb0833be1d9a",
+      "bytes": 210944,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:02.042752+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520900.xls",
+      "file": "data/elections/raw/main_content_000520900.xls",
+      "sha256": "a4bad29c4fea0935ef5ef4802f708b26b599e6eb88e70684167388d6ae6afd7e",
+      "bytes": 155648,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:02.393689+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520902.xls",
+      "file": "data/elections/raw/main_content_000520902.xls",
+      "sha256": "bba1bc5b44a8b8df0789146b4ef2d8606015c56ea57f164084c65bc9c3779020",
+      "bytes": 69632,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:02.655839+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520904.xls",
+      "file": "data/elections/raw/main_content_000520904.xls",
+      "sha256": "085c3d7e8548e4de0b19b1f865ee277a503a118d0ca29a7350be2e80e1f21547",
+      "bytes": 45568,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:02.803957+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520906.xls",
+      "file": "data/elections/raw/main_content_000520906.xls",
+      "sha256": "b4da0e26fac8807cd001d5639fdb8c41c35cb8ddd47d849165dddbf9567f16bc",
+      "bytes": 46080,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:02.852450+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520908.xls",
+      "file": "data/elections/raw/main_content_000520908.xls",
+      "sha256": "384e694cec64d9f7e24dc992fb2d9ba7a8c328204cdc626088e19e9f1ff5d31a",
+      "bytes": 38912,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:02.905937+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520910.xls",
+      "file": "data/elections/raw/main_content_000520910.xls",
+      "sha256": "0b76c06807a47302c84f924d26992d416657a9b0029b0bb14d63c6fa62662f8b",
+      "bytes": 39936,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:02.953573+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520912.xls",
+      "file": "data/elections/raw/main_content_000520912.xls",
+      "sha256": "03eefc2d36f4db6d5af2c0ee4f54bf97982aa2dfb19370c9bb54e436d2b04ad3",
+      "bytes": 69120,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:03.024752+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520914.xls",
+      "file": "data/elections/raw/main_content_000520914.xls",
+      "sha256": "e87d2bcd3f7f0aeddbd1209177a08953885ef61e8a95afdaad845af3c6b880ab",
+      "bytes": 59392,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:03.238657+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520916.xls",
+      "file": "data/elections/raw/main_content_000520916.xls",
+      "sha256": "07fe346f1ac0ab8414937141c34d6983b7fc3f19a3a1cecb5ff17a7454ac951c",
+      "bytes": 84992,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:03.351833+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520918.xls",
+      "file": "data/elections/raw/main_content_000520918.xls",
+      "sha256": "793dd8391ada6f2820a87e9f1bc2ebced3ef0fc26e011caa78a8e5dad23e4011",
+      "bytes": 135680,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:03.495472+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520920.xls",
+      "file": "data/elections/raw/main_content_000520920.xls",
+      "sha256": "651172e10e106033eb694858211af430b38a05fbe4f8f9f8f86a94ff242b3889",
+      "bytes": 54784,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:03.708443+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520922.xls",
+      "file": "data/elections/raw/main_content_000520922.xls",
+      "sha256": "6d781a2b2c46b3bd00f3227d133c14eea94911250a69447b87c63e69dade37e5",
+      "bytes": 52736,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:03.790991+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520924.xls",
+      "file": "data/elections/raw/main_content_000520924.xls",
+      "sha256": "db3a33d0a372124c933dc8e1c9969854a9ae27c619e2a52a7e95dd08863bb629",
+      "bytes": 69120,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:03.848507+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520926.xls",
+      "file": "data/elections/raw/main_content_000520926.xls",
+      "sha256": "51c0c5fd45a8e9ed9820cd8811cf9e915bca2627eb30616b8ac3c4177289f365",
+      "bytes": 162304,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:03.952677+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520928.xls",
+      "file": "data/elections/raw/main_content_000520928.xls",
+      "sha256": "f66d60add987675a203cc8e109383456769d3e65a4ff0a6fd3e296fd31b2a950",
+      "bytes": 111616,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.168372+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520930.xls",
+      "file": "data/elections/raw/main_content_000520930.xls",
+      "sha256": "1b71eeba1ac24488309468a88a50393fb0b86a39c767012fdcea29bdb337422f",
+      "bytes": 48128,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.316116+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520932.xls",
+      "file": "data/elections/raw/main_content_000520932.xls",
+      "sha256": "719f4bab6a957045ffde5aa308e7ffe717846632d1fa7cd68629ea3709c219d6",
+      "bytes": 47616,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.418410+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520934.xls",
+      "file": "data/elections/raw/main_content_000520934.xls",
+      "sha256": "f07e531d78def1e2f0c334311d23f4a57706a3113caf40935bda0ef62cb6d19f",
+      "bytes": 38400,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.494869+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520936.xls",
+      "file": "data/elections/raw/main_content_000520936.xls",
+      "sha256": "115f5a3ff403535fbae1f4cf2e95e489847b2a7a9da5f7824fd42e65b87452ab",
+      "bytes": 38400,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.543961+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520938.xls",
+      "file": "data/elections/raw/main_content_000520938.xls",
+      "sha256": "431fa618dfdc4aaeb7f17e7f153f78eef02c510863f2438af7a0d66f67478855",
+      "bytes": 61952,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.603036+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520940.xls",
+      "file": "data/elections/raw/main_content_000520940.xls",
+      "sha256": "f5ce311304f6de9a841cd52af0432d65c06533f2f87ccf7cd1df7e704263c8c3",
+      "bytes": 75776,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.712366+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520942.xls",
+      "file": "data/elections/raw/main_content_000520942.xls",
+      "sha256": "28f559372a6d14387cdb0c45c59dd771a8975b2f88b9ad3d447c0e8d0aaf2db6",
+      "bytes": 52736,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.822104+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520944.xls",
+      "file": "data/elections/raw/main_content_000520944.xls",
+      "sha256": "5327950517021f57a141676a7e9c8da3700bab55093ada915ebf53d806e5763b",
+      "bytes": 39424,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.885099+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520946.xls",
+      "file": "data/elections/raw/main_content_000520946.xls",
+      "sha256": "8628d1584eba2473d71a979e55c1b95d989d2a500268b2eee0ffa3ed39a7db62",
+      "bytes": 45568,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:04.951950+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520948.xls",
+      "file": "data/elections/raw/main_content_000520948.xls",
+      "sha256": "87a3fb9f21901bab2aca35eee6790b2f14fc7cf38000d2ddec358b3ea9aa012a",
+      "bytes": 53760,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:05.009842+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520950.xls",
+      "file": "data/elections/raw/main_content_000520950.xls",
+      "sha256": "1291334c48260835422cb8a14ef11758e29791e626ee218207b777aa50eaf753",
+      "bytes": 40448,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:05.072383+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520952.xls",
+      "file": "data/elections/raw/main_content_000520952.xls",
+      "sha256": "2b50b358269968556150f07e75797e1eb9541c1a5a0c61c4aebc790abc22e228",
+      "bytes": 110080,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:05.174752+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520954.xls",
+      "file": "data/elections/raw/main_content_000520954.xls",
+      "sha256": "4e85cfef7740c09ea782f5797275bc4c4bd34eb7cefa470ee25c396bb3afcfd4",
+      "bytes": 39424,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:05.428601+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520956.xls",
+      "file": "data/elections/raw/main_content_000520956.xls",
+      "sha256": "d858e4744a4455c6481034f777e56fa8a4a28521ef5d1db8dcb2ce1763790ac7",
+      "bytes": 54272,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:05.515777+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520958.xls",
+      "file": "data/elections/raw/main_content_000520958.xls",
+      "sha256": "1277957c44f8f33476fc153177aea9978b643a5477eed6acb2a313a597e0f6b3",
+      "bytes": 56320,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:05.630571+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520960.xls",
+      "file": "data/elections/raw/main_content_000520960.xls",
+      "sha256": "e18567a88b0501259b58b1a4c0d57afbcd6ed1be135798e3c221116f6a454d62",
+      "bytes": 45568,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:05.830872+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520962.xls",
+      "file": "data/elections/raw/main_content_000520962.xls",
+      "sha256": "3c7303d8f1b140776fb933f5c4700d1c36a9ea0921670d3850fc5617575a5f7d",
+      "bytes": 47104,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:05.918654+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520964.xls",
+      "file": "data/elections/raw/main_content_000520964.xls",
+      "sha256": "c4c4532f72047154f413cf4da0b9c0aa086076ecfda2e5b9684995332a351c05",
+      "bytes": 56320,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.050047+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000520966.xls",
+      "file": "data/elections/raw/main_content_000520966.xls",
+      "sha256": "f91c6b5cde895b4bdbc18822ea3ad05ae15d410a6f70b2ef1c4acac425c6202c",
+      "bytes": 56320,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.304919+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/index.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_index.html",
+      "sha256": "76792fee9bef8b8e773cf44be68122fa58c18b3981306c86d76622a337686d39",
+      "bytes": 43958,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.534237+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson.html",
+      "sha256": "c42001eb2a8581335a063417279d9e502f5b07af81bd8ed55fd737faf9276ce4",
+      "bytes": 42764,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.555955+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_01.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_01.html",
+      "sha256": "c2e797ebd1bab32be28fc55e5a7638610ae47924c07f219e92071bde1db4cbd8",
+      "bytes": 39041,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.576605+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_02.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_02.html",
+      "sha256": "eb70ad1fe103add2d1f8500af892c5fa888e20ded84f833658d000f1b0525a5a",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.592689+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_03.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_03.html",
+      "sha256": "9ed2113d7c788768ed0bebcee5d0a2735f4205672e19d511f5c9a935cef4e74c",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.607848+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_04.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_04.html",
+      "sha256": "402cd970481b2ac93b595a70d4c18083adc8cdf72452c1cc76a28703f2803da9",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.621184+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_05.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_05.html",
+      "sha256": "95f67633f47ad1f1c0b727f4ce1862564f29206da2049b68d8b65e3132d82366",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.636316+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_06.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_06.html",
+      "sha256": "3f8e9f8ad2bcda3413720d52e0ab6ff3407ebdf8928348f83a72885a38a4a6c3",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.651335+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_07.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_07.html",
+      "sha256": "9f0fd8cb22036e1af2ac9707b0fe6933497638b8fca0b51e70a18e6db623ec4f",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.666901+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_08.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_08.html",
+      "sha256": "8f48cd4a5d7a415def4210e9a5b79533c4137bba3ad15cefdc226168dc423f67",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.681927+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_09.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_09.html",
+      "sha256": "1b81418c72ebae9816fb6270370ea51663259ba488f5ec6ace4b083461b7e5e9",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.697987+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_10.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_10.html",
+      "sha256": "23f415961304a9fd2c91b6d55909ca1523d276536c0fb153bcbec2fbad75cb87",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.711834+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_11.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_11.html",
+      "sha256": "e8add388d1de7ef3d26fdccec0ca48d420839239bd5f1e34ab2b33e510d7556b",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.725927+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_12.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_12.html",
+      "sha256": "45fb2a42a7f08425797809a75ea91c60cb5443f7507ca83f0430064f01f6cc54",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.778978+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_13.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_13.html",
+      "sha256": "6c905ff9b43fe81903fd7415c32ed0b6b989b27d13419bdf3b498fc6cebeb32d",
+      "bytes": 39145,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.791191+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_14.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_14.html",
+      "sha256": "14727bd0a4e8f4663da46d1d1500df1773454cda8792fd941fe9c2aa0cfbab05",
+      "bytes": 39149,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.803765+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_15.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_15.html",
+      "sha256": "84ba29810d05b0c73d57ce822e4de56ebbd247242e449c2483e2764d21356ece",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.815955+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_16.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_16.html",
+      "sha256": "97c3f8f0a5fc75a9488da7968073d3da4138042c63ecdd27b43d039ed51fa4ec",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.829057+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_17.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_17.html",
+      "sha256": "45ba95ce61a32136f009909db3b984d7a8e2524876d6f50a3ea32217ab1603a8",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.841748+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_18.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_18.html",
+      "sha256": "83730b3964e09bf9619684799a90a73bb7ace2b2f6888c9c7692bac1412980b4",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.853419+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_19.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_19.html",
+      "sha256": "3af3cc66439ce22e68f8b1e25c2fd886214b1032fb83a5c4ea16395aff8d553a",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.865121+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_20.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_20.html",
+      "sha256": "fd69eccbb87b49cdf392472c1f611796349f454ba1aa44669feb462980a72ead",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.878556+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_21.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_21.html",
+      "sha256": "9a083aeb151ebaeb23cbeb9d87c76c141a8f7bfef54901b7739d5409eead2c6f",
+      "bytes": 39340,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.889892+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_22.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_22.html",
+      "sha256": "209973b5dd03a8e4463387ad1238a3151659403b57562b6dfbdfaf17b7c8f37a",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.902462+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_23.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_23.html",
+      "sha256": "dc2ce24896adce19810476e89ba342f7cbad9659bfbdaa903c89c82ffa0ce621",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.913417+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_24.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_24.html",
+      "sha256": "b6b50a259695812e3cf9e6787b2c53e12d127645720e385a1c38372b8e06777b",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.924793+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_25.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_25.html",
+      "sha256": "5c1d56079518d4210cbe8ac7f4705cebaed292e9f6f071f500a3949d6a10caa5",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.937227+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_26.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_26.html",
+      "sha256": "87bf1a5f751ac0d4808fc2e87365a7446ef6cde2ae7661e22b0afcd02e45605b",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.949987+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_27.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_27.html",
+      "sha256": "9f4c729a660a3070bbe1d63768606fcea9fc8bee9049443cab52ab8dd8298872",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.961099+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_28.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_28.html",
+      "sha256": "13daff12005b5f76ad6a1d93450c44e74b2fe5f5ade1b3ab2f554421b8915be6",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.973718+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_29.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_29.html",
+      "sha256": "6de68c653ff1c3f14f390ea683d44593357108a2690a7f7eb9ec6da4d415a476",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.985393+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_30.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_30.html",
+      "sha256": "5fe152dda2511c0c2035042ee1f913714959de14402678500114a96a10fe7a3a",
+      "bytes": 39149,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:06.996728+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_31.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_31.html",
+      "sha256": "4af78fb078791b0c2b57eaf5b53551c4d46f05079825e29dd85403281101896f",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.008859+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_32.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_32.html",
+      "sha256": "c6f34dca53496542b2ebeb0493a675018853c483244d20627c07181187e00ad9",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.020435+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_33.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_33.html",
+      "sha256": "14057d7ec7d2dea37a2aed2617ad6b821e2de939f7637de6e455fe294ff27164",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.040166+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_34.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_34.html",
+      "sha256": "347b62fcce284eb75d1973762445082c968f69c47916b3461c69f2d14ea02e39",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.056808+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_35.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_35.html",
+      "sha256": "029e7c35c91b2945e6136df2146d1cc0189fa6e083745ce1e23b1c22c36dedc2",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.070481+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_36.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_36.html",
+      "sha256": "d3957fe9f3a15506a703a3350a97a4192b13d4d91efec04dd166cc7606895c76",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.087407+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_37.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_37.html",
+      "sha256": "f68d2496f7b09b17aaf6a8f7ec910ee24ea706e7d3b379d6cbb06518dce74b7c",
+      "bytes": 39117,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.099022+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_38.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_38.html",
+      "sha256": "83ca6ae31bda0bdf147dc9e49b2b9650e16bedbdc2ef668f1e00c9166a9b33dc",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.115668+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_39.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_39.html",
+      "sha256": "dc1f6960adca9e2b57fe42c8e2ff5fc4cad34a5d1307f5ac3777fdaec7856dc6",
+      "bytes": 39448,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.128638+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_40.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_40.html",
+      "sha256": "ae8cec8513920ab535588b77f6b53ebd485ff9dcd4b8ad86de943e7a097f2c97",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.142624+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_41.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_41.html",
+      "sha256": "336c954322709012d4785beaa32a7a7499a8209958bc7b4032e16e3d6d8daa53",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.161404+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_42.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_42.html",
+      "sha256": "702c4a819c6bf1ab40f96cab9aa207b3dd539434c3df6dd3709b8481056f441b",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.236079+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_43.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_43.html",
+      "sha256": "e6b91e350850f5ff7559a9bc50f5c926d533bbcd0293874f6a98c4db05017eea",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.247365+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_44.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_44.html",
+      "sha256": "e1548e007692ca6627ea06401562205d5bea8533d94c10d892ee3f6bcf3be0e6",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.260515+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_45.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_45.html",
+      "sha256": "4ffc6726f5919f57aa603bf4cdccc0592fc97f9cc8ff770e26e0fb4f8d478c4b",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.272167+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_46.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_46.html",
+      "sha256": "465d1dd7d54d167c18a66b1caeac073630888c44a2ccc56439b9b9837f7d23a2",
+      "bytes": 39149,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.284157+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/shikuchouson_47.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin49_shikuchouson_47.html",
+      "sha256": "adf393efcdeafbda314edda6f5b6a78ebeedf888537c6164160373e883e469e1",
+      "bytes": 39141,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:07.296584+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785193.xls",
+      "file": "data/elections/raw/main_content_000785193.xls",
+      "sha256": "af502f62e1ff94e9135135f0c7305003e825ad0005297d0a672275a9f93a2756",
+      "bytes": 97280,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:12.356426+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785195.xls",
+      "file": "data/elections/raw/main_content_000785195.xls",
+      "sha256": "2b8a320e24f4ad1db5197728e35fe4e92accbeb3122aff5a0e17c9c03ee4c1f6",
+      "bytes": 39424,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:13.058683+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785197.xls",
+      "file": "data/elections/raw/main_content_000785197.xls",
+      "sha256": "e03c4bc6228181208fb3f0381392e1e76afe5b06400094b37de3ebe871cc8352",
+      "bytes": 43008,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:13.211058+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785199.xls",
+      "file": "data/elections/raw/main_content_000785199.xls",
+      "sha256": "1adc594cf88150cdecdff561e49235bc4cee53b4e1164182711ed7460b57a30d",
+      "bytes": 51712,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:13.346972+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785201.xls",
+      "file": "data/elections/raw/main_content_000785201.xls",
+      "sha256": "86b19a73486406bcd195248719ec80c705d5b5067923ff01a929311c9518651b",
+      "bytes": 37376,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:13.520275+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785203.xls",
+      "file": "data/elections/raw/main_content_000785203.xls",
+      "sha256": "b983868652010077fc1887b6d41155bdd8f9e545cc124e231cdc0e4ea25b5308",
+      "bytes": 38400,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:13.618691+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785205.xls",
+      "file": "data/elections/raw/main_content_000785205.xls",
+      "sha256": "27ce82f8d9dd062a6241d51a5fa12acacfc60dd0e572456ca9b0b3a123f8aa39",
+      "bytes": 49664,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:13.754210+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785207.xls",
+      "file": "data/elections/raw/main_content_000785207.xls",
+      "sha256": "66f0ee0cb5f6c0bebb5e5636073672850894b93f523471f4e2c23b9407e71e36",
+      "bytes": 56832,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:13.983968+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785209.xls",
+      "file": "data/elections/raw/main_content_000785209.xls",
+      "sha256": "3ad6034cebee5fc2f01f4e5f914935a30cec22002c35fbbd04e7081416263914",
+      "bytes": 46592,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:14.187639+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785211.xls",
+      "file": "data/elections/raw/main_content_000785211.xls",
+      "sha256": "ab9315de6f4bc1db89d7a25041bc057362962560c3c4ddff5f718b81843fe2e6",
+      "bytes": 47616,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:14.312107+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785213.xls",
+      "file": "data/elections/raw/main_content_000785213.xls",
+      "sha256": "d7dea00302a90e36888a294a303915d97333f6b40641960174ad3dd323e99f20",
+      "bytes": 92160,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:14.483806+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785215.xls",
+      "file": "data/elections/raw/main_content_000785215.xls",
+      "sha256": "9789343ff85cb2fa5f71aa7d9d39d2d5a131f40cf4b968200d81f5adfc64d80f",
+      "bytes": 83456,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:14.857312+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785217.xls",
+      "file": "data/elections/raw/main_content_000785217.xls",
+      "sha256": "21a7ed2ae48facf71a40e1a58adc1c8aa900cf61be80a863e3b4006dc32adda0",
+      "bytes": 143360,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:15.140817+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785219.xls",
+      "file": "data/elections/raw/main_content_000785219.xls",
+      "sha256": "29c7e1b03f4d0dbc8ddb661bb162df72e2636d4d2e7e57f1e6b0baf48c263c95",
+      "bytes": 102400,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:15.613719+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785221.xls",
+      "file": "data/elections/raw/main_content_000785221.xls",
+      "sha256": "ce4ef7c283db0bb7e8f659a3934d2616ef308c12a1cc83b42c806abd8ffdce34",
+      "bytes": 51712,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:16.083366+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785223.xls",
+      "file": "data/elections/raw/main_content_000785223.xls",
+      "sha256": "6ae9a082f6065caebf4b93bfac6e1562a3941aed000bcd7152863aff0082bd84",
+      "bytes": 36352,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:16.386095+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785225.xls",
+      "file": "data/elections/raw/main_content_000785225.xls",
+      "sha256": "c84bb98351d4912e33ab20b6ae829aad6c3f25a8e8301c62104288fe7369db1b",
+      "bytes": 37376,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:16.527738+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785227.xls",
+      "file": "data/elections/raw/main_content_000785227.xls",
+      "sha256": "72b86c9634fc1ed45859f37bcc76e1cb99c96f06967c6749df8c299b88ffec3d",
+      "bytes": 32768,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:16.672663+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785229.xls",
+      "file": "data/elections/raw/main_content_000785229.xls",
+      "sha256": "2d70615ea0be7c182740b28e1511f8a26242f75a36d7b04b449786294b14cb4c",
+      "bytes": 33792,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:16.802022+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785231.xls",
+      "file": "data/elections/raw/main_content_000785231.xls",
+      "sha256": "96c221c2babc0daf0a7ef2eab8774e286e59b4324d65eae6fb6412cb5daf8f1c",
+      "bytes": 53248,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:16.978934+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785233.xls",
+      "file": "data/elections/raw/main_content_000785233.xls",
+      "sha256": "feaa31505bfaa3f4b347c62b2c48f7f757957114ad54f455e3a3d24a75243ec5",
+      "bytes": 47616,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:17.297566+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785235.xls",
+      "file": "data/elections/raw/main_content_000785235.xls",
+      "sha256": "aee534ef4f70b8c73d316b3815030e9f85e955d9e2692e51a5d141d48d8e76c9",
+      "bytes": 60928,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:17.533357+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785237.xls",
+      "file": "data/elections/raw/main_content_000785237.xls",
+      "sha256": "10713a46433cf82660f2febb3e937b50b4d3204288530ced51950778d090f903",
+      "bytes": 90624,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:17.790067+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785239.xls",
+      "file": "data/elections/raw/main_content_000785239.xls",
+      "sha256": "d11608d00743bdb922de2755cc262c57fe2b345509ddba807cddbeef002dccad",
+      "bytes": 43008,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:18.115426+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785241.xls",
+      "file": "data/elections/raw/main_content_000785241.xls",
+      "sha256": "84c20d42d069232f48a2e5ba7a632972fd9db99eeadfa4f856f86402daf531d4",
+      "bytes": 40960,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:18.294858+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785243.xls",
+      "file": "data/elections/raw/main_content_000785243.xls",
+      "sha256": "e451b9e96f4e95c27f0f1ec5a7bc8ddef50ef29e147e581446ebffe2d1c559e4",
+      "bytes": 51200,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:18.426859+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785245.xls",
+      "file": "data/elections/raw/main_content_000785245.xls",
+      "sha256": "1e2672781271e7ce32bfbb87e6391a4f24dbcfdbe92188d0c53f7d666cb5b592",
+      "bytes": 107008,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:18.627937+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785247.xls",
+      "file": "data/elections/raw/main_content_000785247.xls",
+      "sha256": "e0fb32d5319292ea62d4269d6707958b21cce3868f818bd28f3106d73b471d04",
+      "bytes": 77312,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:19.033910+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785249.xls",
+      "file": "data/elections/raw/main_content_000785249.xls",
+      "sha256": "848e59faea2c97fe705de8612e704b51b91a61f6185a7080b2670651322809ba",
+      "bytes": 39936,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:19.309322+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785251.xls",
+      "file": "data/elections/raw/main_content_000785251.xls",
+      "sha256": "823d607a3f8d697bb686144df49205a3dc055cb835d19467470e70c02d3911b7",
+      "bytes": 38912,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:19.543686+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785253.xls",
+      "file": "data/elections/raw/main_content_000785253.xls",
+      "sha256": "545ec6e441598ab1319d8e7476cf3ef0281f44fc6f8ec7d7c224551fc6a2775b",
+      "bytes": 32768,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:19.738944+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785255.xls",
+      "file": "data/elections/raw/main_content_000785255.xls",
+      "sha256": "36c86e3d7df5db8b866e93dddd5df459cf5c322dc4a97e70e014e6a8736f629a",
+      "bytes": 33280,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:19.890675+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785257.xls",
+      "file": "data/elections/raw/main_content_000785257.xls",
+      "sha256": "0527579367da752cba94fc9c8d148a135be9d7f52a7cdef88295227d598a205c",
+      "bytes": 47104,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:20.053930+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785259.xls",
+      "file": "data/elections/raw/main_content_000785259.xls",
+      "sha256": "92b9129310839f45f75f5531b1d18ad10719c0a0e4e6b544996c6d4724168160",
+      "bytes": 55296,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:20.290732+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785261.xls",
+      "file": "data/elections/raw/main_content_000785261.xls",
+      "sha256": "a7f99d8cf2dd56bf6186305e1e0d5f67b0d081f30539c1c58108708b9488c4ac",
+      "bytes": 40960,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:20.537848+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785263.xls",
+      "file": "data/elections/raw/main_content_000785263.xls",
+      "sha256": "3b20d1377142fe6d7ba8a4216537608310b52e15a75620f79789e8328ee9e2f9",
+      "bytes": 33280,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:20.688542+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785265.xls",
+      "file": "data/elections/raw/main_content_000785265.xls",
+      "sha256": "88cb1ebc6b77a219f7d437e4d3e76a31de0ec748a3c5a35d9effde79081aa891",
+      "bytes": 36352,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:20.856644+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785267.xls",
+      "file": "data/elections/raw/main_content_000785267.xls",
+      "sha256": "930352abd1e8192fe5c87437b45e1f52bc37cc64ec2b91676b70f23beb93bd78",
+      "bytes": 41984,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:21.006240+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785269.xls",
+      "file": "data/elections/raw/main_content_000785269.xls",
+      "sha256": "bd6ea44b0edc03f38e39d30e2e56df5597a2444d81f8b72f9a542c174fa8eeea",
+      "bytes": 35328,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:21.164854+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785271.xls",
+      "file": "data/elections/raw/main_content_000785271.xls",
+      "sha256": "79a5e99843ffcce176b7e3d94bd2f46cf69f205e4eb4c75940334140708f8388",
+      "bytes": 77824,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:21.367742+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785273.xls",
+      "file": "data/elections/raw/main_content_000785273.xls",
+      "sha256": "fbe01e00736931ddea5415f59bbe259965bf12bece9f5fb43148f3ee2b2e0d87",
+      "bytes": 33280,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:21.695133+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785275.xls",
+      "file": "data/elections/raw/main_content_000785275.xls",
+      "sha256": "88ff8231d78d9af640151544494cb505e36e87701c55eccc1f69a484c4b9c001",
+      "bytes": 43008,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:21.832251+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785277.xls",
+      "file": "data/elections/raw/main_content_000785277.xls",
+      "sha256": "786180ab80427c53255d14bb3f0be9f8bfbf7d6a40476712a8074b17a191aa18",
+      "bytes": 45056,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:21.975408+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785279.xls",
+      "file": "data/elections/raw/main_content_000785279.xls",
+      "sha256": "808e265bdf9377a18fa4d0b2e4fb97cd867577b3ab4932af7c302a85f4817786",
+      "bytes": 36864,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:22.179289+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785281.xls",
+      "file": "data/elections/raw/main_content_000785281.xls",
+      "sha256": "7c4dd78ae070e5c0a900f49b6c63c9a1bbbe292085e3f47ac8cc5f4638d73ed8",
+      "bytes": 38400,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:22.308097+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785283.xls",
+      "file": "data/elections/raw/main_content_000785283.xls",
+      "sha256": "2424abc69a7af85ab407572b2b72fa1ebc34ee3694071006bf1fbeaa12d4bd8d",
+      "bytes": 45056,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:22.451196+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000785285.xls",
+      "file": "data/elections/raw/main_content_000785285.xls",
+      "sha256": "bc40aa8e9f09f17b95ddc84cd570a3d67ca80fa58a07c7e4d5ba8c51a71f2336",
+      "bytes": 44544,
+      "cached": false,
+      "checked_at": "2026-10-12T03:07:22.635282+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin50/index.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin50_index.html",
+      "sha256": "9d4d994685322357a6e11d1264ab9b8ce11a70079cbc3eb3da9695f3323767cc",
+      "bytes": 44663,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:22.738825+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin50/shikuchouson.html",
+      "file": "data/elections/raw/senkyo_senkyo_s_data_shugiin50_shikuchouson.html",
+      "sha256": "400c7822a1ffd10e91ea16d2730173611d131d015b3c9671ddf609beb2792cbc",
+      "bytes": 50635,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:22.747646+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979538.xlsx",
+      "file": "data/elections/raw/main_content_000979538.xlsx",
+      "sha256": "bce1e6126068c6e686b60ed8c0a200adc5c351a593b7768a5bd6620178072b77",
+      "bytes": 46801,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:28.948569+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979539.xlsx",
+      "file": "data/elections/raw/main_content_000979539.xlsx",
+      "sha256": "3bc21ae34735eff6e7fbf11e08f8fafb571e7191cf76e19e8214ce686981e6cd",
+      "bytes": 17187,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:29.685540+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979540.xlsx",
+      "file": "data/elections/raw/main_content_000979540.xlsx",
+      "sha256": "20a0941a5660326a1b2209a62d11514c96cf1a835f864ef91063d21a202e4fe6",
+      "bytes": 16516,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:29.853796+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979541.xlsx",
+      "file": "data/elections/raw/main_content_000979541.xlsx",
+      "sha256": "f59e07f7c149e5a91250ed797275c49a2bbeeb8931c1d817a80a536cdc33b98b",
+      "bytes": 22016,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:29.988576+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979542.xlsx",
+      "file": "data/elections/raw/main_content_000979542.xlsx",
+      "sha256": "da5b048779d07193927f38bf9f7ba2f09e78c05869c54072f13c1d0f7af85ff9",
+      "bytes": 16566,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:30.156051+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979543.xlsx",
+      "file": "data/elections/raw/main_content_000979543.xlsx",
+      "sha256": "e00b9364ad661af7c5a1d9509ee73dd91b6ce3b32216c3ff2839911ef3cc987b",
+      "bytes": 17005,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:30.261419+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979544.xlsx",
+      "file": "data/elections/raw/main_content_000979544.xlsx",
+      "sha256": "1905b68a28ebb7b42dd5e5a9cc7379bb218d8bfbedab1fc303062d155272f239",
+      "bytes": 20267,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:30.403675+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979545.xlsx",
+      "file": "data/elections/raw/main_content_000979545.xlsx",
+      "sha256": "496009e699146e92d86e7816a7ef47eeaee3e623478741c1aa27b6eb2fd1dfc8",
+      "bytes": 27924,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:30.638651+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979546.xlsx",
+      "file": "data/elections/raw/main_content_000979546.xlsx",
+      "sha256": "82e1c7a76317e1f7166509881e8b154338620f8d3512103b84e53e08cc5eb85b",
+      "bytes": 21411,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:30.823934+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979547.xlsx",
+      "file": "data/elections/raw/main_content_000979547.xlsx",
+      "sha256": "fd02dd7dd1bc679628fa19ac10d2e37cfae8cd65d02aea19e8e055967343df17",
+      "bytes": 21916,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:30.953885+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979548.xlsx",
+      "file": "data/elections/raw/main_content_000979548.xlsx",
+      "sha256": "1d6a175a5e18197466c5982f304a1c30f0638157cbef85e471da06014a2f8b0b",
+      "bytes": 49562,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:31.107741+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979549.xlsx",
+      "file": "data/elections/raw/main_content_000979549.xlsx",
+      "sha256": "d93982421a08f3fe038d2fb3ab5cbf00bd71b38edd892753a20790c83a21374e",
+      "bytes": 47263,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:31.443442+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979551.xlsx",
+      "file": "data/elections/raw/main_content_000979551.xlsx",
+      "sha256": "87987950783ef28e2be180d984c25ce50a458b4330c4aca5ab2896f6ffe4c270",
+      "bytes": 62704,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:31.694534+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979558.xlsx",
+      "file": "data/elections/raw/main_content_000979558.xlsx",
+      "sha256": "02f958ed1f8a0b3db1bed695aa75eb8652e4589c50f260e9f37a517549d35ac2",
+      "bytes": 13790,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:31.938297+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979550.xlsx",
+      "file": "data/elections/raw/main_content_000979550.xlsx",
+      "sha256": "fc76343db9f8a28cca3976cbc2c0e71850912852c320e104564e277141468766",
+      "bytes": 91038,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:32.021343+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979552.xlsx",
+      "file": "data/elections/raw/main_content_000979552.xlsx",
+      "sha256": "9b70bec147c2882d6ec5a0b9b0cc4baa51a8de47e0aeacf138cfed1800f083c4",
+      "bytes": 22441,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:32.310011+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979553.xlsx",
+      "file": "data/elections/raw/main_content_000979553.xlsx",
+      "sha256": "18c3e049686f2573d717260f37b1ae0db504db41d119328dead49d60bbef8502",
+      "bytes": 16116,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:32.429650+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979555.xlsx",
+      "file": "data/elections/raw/main_content_000979555.xlsx",
+      "sha256": "76bafd8b072a58f605742d96300df7555073bfef6e656a56b2c59466dddf436b",
+      "bytes": 16495,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:32.481714+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979556.xlsx",
+      "file": "data/elections/raw/main_content_000979556.xlsx",
+      "sha256": "579e160c6524bb261793df8e94ff0b0f8c26ef84aefb1c53de3b364e179dd516",
+      "bytes": 14009,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:32.541441+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979561.xlsx",
+      "file": "data/elections/raw/main_content_000979561.xlsx",
+      "sha256": "5cdb5a63b24a7d8a1fd70029b44ebdaf009ed512667b090d46557929bdbf4300",
+      "bytes": 23869,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:32.592795+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979562.xlsx",
+      "file": "data/elections/raw/main_content_000979562.xlsx",
+      "sha256": "e4f49d2d58b586cea3f757d0fe1ea4f8ec7b8c552661361463a49e782f67afb0",
+      "bytes": 21915,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:32.802433+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979563.xlsx",
+      "file": "data/elections/raw/main_content_000979563.xlsx",
+      "sha256": "dce28b84dc1949cfca846b973b173af7129353aed497ff9425579e652beac6d1",
+      "bytes": 30213,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:32.916924+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979564.xlsx",
+      "file": "data/elections/raw/main_content_000979564.xlsx",
+      "sha256": "ba0ff139a07a817d790602456d5b0feb763fb8bc016997877219809a98fc63ef",
+      "bytes": 52423,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:33.043530+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979568.xlsx",
+      "file": "data/elections/raw/main_content_000979568.xlsx",
+      "sha256": "4d947a649b3f9aa406bd5c041b178b246f1febead426b2613190934c85f42728",
+      "bytes": 19429,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:33.255348+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979569.xlsx",
+      "file": "data/elections/raw/main_content_000979569.xlsx",
+      "sha256": "59bc8d33e90cab4825e5b072864d38983874759050fe6c3ac6f439e90adc7ccb",
+      "bytes": 16097,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:33.336908+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979570.xlsx",
+      "file": "data/elections/raw/main_content_000979570.xlsx",
+      "sha256": "b4e2d08e2088c49fe12e0fc49368b2579b69fe4b942f9e1c0a44578809e9c770",
+      "bytes": 25444,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:33.389727+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979571.xlsx",
+      "file": "data/elections/raw/main_content_000979571.xlsx",
+      "sha256": "fd3195e4fed6f9dc82b1a304185d23686b3783055cf030f19761e94fd1d330b7",
+      "bytes": 60881,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:33.497204+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979573.xlsx",
+      "file": "data/elections/raw/main_content_000979573.xlsx",
+      "sha256": "a10faaa802205aec570f5a3ed00fc146d6ebc9072b4255e9cf0f4ca00312afd6",
+      "bytes": 42020,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:33.725931+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979574.xlsx",
+      "file": "data/elections/raw/main_content_000979574.xlsx",
+      "sha256": "8d602c1098bb5b6349e901a743508356b7fa435d0824609ac5aa97adb53fb700",
+      "bytes": 17438,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:33.888783+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979575.xlsx",
+      "file": "data/elections/raw/main_content_000979575.xlsx",
+      "sha256": "ab92e7f795f25e9ed5fe4f3a4b086ca4ebf184271ad731a25fb6c9a2335a4508",
+      "bytes": 14710,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:33.996737+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979578.xlsx",
+      "file": "data/elections/raw/main_content_000979578.xlsx",
+      "sha256": "8ea2088b9a4bdac4ce36220107e28a37d196b8173e52823473245d79829480f2",
+      "bytes": 13408,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.074631+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979579.xlsx",
+      "file": "data/elections/raw/main_content_000979579.xlsx",
+      "sha256": "a1874a7378823b81de77a866b48c8f26e8601c45272b83fc064c6feac462d094",
+      "bytes": 13335,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.125864+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979580.xlsx",
+      "file": "data/elections/raw/main_content_000979580.xlsx",
+      "sha256": "479dde207ed86f528d844d8dd272b1d42cb5ab02f2b0c493b14a60030c770cf6",
+      "bytes": 19222,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.177067+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979581.xlsx",
+      "file": "data/elections/raw/main_content_000979581.xlsx",
+      "sha256": "309083ec1425cd85c985dd78c196ca8c2860f80eb48797b007f99b31f693a81a",
+      "bytes": 24320,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.259510+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979582.xlsx",
+      "file": "data/elections/raw/main_content_000979582.xlsx",
+      "sha256": "f1d8cc46ff7910a21d2928152816b8209652c2ee523014407b163092e4d0e8d9",
+      "bytes": 15920,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.351318+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979585.xlsx",
+      "file": "data/elections/raw/main_content_000979585.xlsx",
+      "sha256": "faeaf213b9638f4e7a8a5f110b3078ba87a9cff5f83dc6caffa5f9efc16f78a0",
+      "bytes": 14087,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.413914+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979586.xlsx",
+      "file": "data/elections/raw/main_content_000979586.xlsx",
+      "sha256": "7c01523aef1e6d45cfda467138dab1d9e0d27d3ac421e178bc348fb36e95a38f",
+      "bytes": 16302,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.479153+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979587.xlsx",
+      "file": "data/elections/raw/main_content_000979587.xlsx",
+      "sha256": "3056ed82f12af50462dad16afff7cecfd0e4c70860d9e52feb730cf59b5ca428",
+      "bytes": 16367,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.535109+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979588.xlsx",
+      "file": "data/elections/raw/main_content_000979588.xlsx",
+      "sha256": "dfe3163254dd382c7dec46f23c545f65939e32ce80ca236c14fcecf821ee411c",
+      "bytes": 13763,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.594558+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979589.xlsx",
+      "file": "data/elections/raw/main_content_000979589.xlsx",
+      "sha256": "2d1fb3e50d63ebc46a3aa6584985bb87c3ad29bb8456d5ba885110bdabe114b3",
+      "bytes": 40873,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.691900+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979590.xlsx",
+      "file": "data/elections/raw/main_content_000979590.xlsx",
+      "sha256": "8bf4058cc7aa85f423b7dbfb0e689b499b0ca54aa5243e2367a9b58e8fbdbd7a",
+      "bytes": 13676,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.928839+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979592.xlsx",
+      "file": "data/elections/raw/main_content_000979592.xlsx",
+      "sha256": "d5b93bf9403e92b6c8481fdc811300e0987bfd66d454cbb217fe9f2c95f228fb",
+      "bytes": 16554,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:34.984763+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979594.xlsx",
+      "file": "data/elections/raw/main_content_000979594.xlsx",
+      "sha256": "bec01756e30ae5e4610e0b8257ed98c3c6cf1242de5f89ea2adaaaf47a234a87",
+      "bytes": 20128,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:35.045458+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000987140.xlsx",
+      "file": "data/elections/raw/main_content_000987140.xlsx",
+      "sha256": "ba30d5a093d8414fd0d0843d7a2da062f795ebf3b1ce0e76180dc7241357c3b0",
+      "bytes": 16587,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:35.183830+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979596.xlsx",
+      "file": "data/elections/raw/main_content_000979596.xlsx",
+      "sha256": "5849d2b845302e2a5c68402076651ec1df660af7db4bfbcb771c866f181dc748",
+      "bytes": 16599,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:35.241488+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979597.xlsx",
+      "file": "data/elections/raw/main_content_000979597.xlsx",
+      "sha256": "5dea8e46740b483707e4ad948d59661d2b3f6acd92943020153b90487e7728cb",
+      "bytes": 19734,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:35.314534+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979598.xlsx",
+      "file": "data/elections/raw/main_content_000979598.xlsx",
+      "sha256": "d6a769b2ec256510733a1d611d32a70083fdfe1295609b9e1f0404f0e5abc513",
+      "bytes": 20564,
+      "cached": true,
+      "checked_at": "2026-10-12T03:07:35.438285+00:00"
+    }
+  ],
+  "failures": [],
+  "mapping_issues": [
+    {
+      "kaiji": 48,
+      "election_date": "2017-10-22",
+      "prefecture": "東京都",
+      "district": "東京都第21区",
+      "local_label": "稲敷市(21区)",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000520898.xls",
+      "sheet": "東京都第21区"
+    },
+    {
+      "issue_type": "vote_sum_mismatch",
+      "kaiji": 48,
+      "prefecture": "福井県",
+      "district": "福井県第1区",
+      "source_url": "https://www.soumu.go.jp/main_content/000520908.xls",
+      "details": [
+        {
+          "candidate_column": 1,
+          "local_sum": 43406.0,
+          "district_total": 22931.0
+        },
+        {
+          "candidate_column": 2,
+          "local_sum": 223384.0,
+          "district_total": 116969.0
+        },
+        {
+          "candidate_column": 3,
+          "local_sum": 122440.0,
+          "district_total": 64086.0
+        }
+      ]
+    },
+    {
+      "kaiji": 48,
+      "election_date": "2017-10-22",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第2区",
+      "local_label": "南薩摩市",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000520964.xls",
+      "sheet": "鹿児島県第２区"
+    },
+    {
+      "kaiji": 48,
+      "election_date": "2017-10-22",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第4区",
+      "local_label": "大崎市",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000520964.xls",
+      "sheet": "鹿児島県第４区"
+    },
+    {
+      "issue_type": "vote_sum_mismatch",
+      "kaiji": 49,
+      "prefecture": "宮城県",
+      "district": "宮城県第3区",
+      "source_url": "https://www.soumu.go.jp/main_content/000785199.xls",
+      "details": [
+        {
+          "candidate_column": 4,
+          "local_sum": 5890.0,
+          "district_total": 5716.0
+        }
+      ]
+    },
+    {
+      "kaiji": 49,
+      "election_date": "2021-10-31",
+      "prefecture": "東京都",
+      "district": "東京都第21区",
+      "local_label": "稲敷市(21区)",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000785217.xls",
+      "sheet": "東京都第21区"
+    },
+    {
+      "issue_type": "missing_candidate_total",
+      "kaiji": 49,
+      "prefecture": "神奈川県",
+      "district": "神奈川県第9区",
+      "source_url": "https://www.soumu.go.jp/main_content/000785219.xls",
+      "candidate": "吉田大成",
+      "derived_votes": 24547.0
+    },
+    {
+      "issue_type": "vote_sum_mismatch",
+      "kaiji": 49,
+      "prefecture": "大阪府",
+      "district": "大阪府第19区",
+      "source_url": "https://www.soumu.go.jp/main_content/000785245.xls",
+      "details": [
+        {
+          "candidate_column": 1,
+          "local_sum": 9258.0,
+          "district_total": 2133.0
+        },
+        {
+          "candidate_column": 2,
+          "local_sum": 52052.0,
+          "district_total": 10796.0
+        },
+        {
+          "candidate_column": 3,
+          "local_sum": 68209.0,
+          "district_total": 13295.0
+        },
+        {
+          "candidate_column": 4,
+          "local_sum": 32193.0,
+          "district_total": 6588.0
+        }
+      ]
+    },
+    {
+      "kaiji": 49,
+      "election_date": "2021-10-31",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第3区",
+      "local_label": "始良市",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000785283.xls",
+      "sheet": "鹿児島県第３区"
+    },
+    {
+      "kaiji": 49,
+      "election_date": "2021-10-31",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第3区",
+      "local_label": "清水町",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000785283.xls",
+      "sheet": "鹿児島県第３区"
+    },
+    {
+      "kaiji": 49,
+      "election_date": "2021-10-31",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第4区",
+      "local_label": "大崎市",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000785283.xls",
+      "sheet": "鹿児島県第４区"
+    }
+  ],
+  "completed_elections": [
+    47,
+    48,
+    49,
+    50
+  ]
+}

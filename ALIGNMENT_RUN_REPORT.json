@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-13",
+  "stage": "党派交代の探索的比較MVP（厳密な因果検証の前段）",
+  "status": "completed_with_caveats",
+  "network": {
+    "success": 5,
+    "failure": 2,
+    "errors": [
+      {
+        "url": "https://www.kantei.go.jp/jp/rekidainaikaku/101.html",
+        "status": "failure",
+        "error": "404 Client Error: Not Found for url: https://www.kantei.go.jp/jp/rekidainaikaku/101.html",
+        "recorded_at": "2026-10-12T22:53:11.798697+00:00"
+      },
+      {
+        "url": "https://japan.kantei.go.jp/past_cabinet/index.html",
+        "status": "failure",
+        "error": "404 Client Error: Not Found for url: https://japan.kantei.go.jp/past_cabinet/index.html",
+        "recorded_at": "2026-10-12T22:53:11.798698+00:00"
+      }
+    ],
+    "supplement": "連立参加政党の公式発表と沿革で判定根拠を補完"
+  },
+  "planned_comparisons": 32,
+  "estimated_comparisons": 24,
+  "withheld_comparisons": 8,
+  "classification_rows": 3482,
+  "primary_results": [
+    {
+      "election_year": 2017,
+      "contrast": "与党→野党",
+      "treated_count": 42,
+      "control_count": 112,
+      "treated_clusters": 6,
+      "control_clusters": 15,
+      "estimate": -15031.264234165159,
+      "ci_low": -40600.91989763276,
+      "ci_high": 10538.391429302439,
+      "interpretation": "交代した選挙区が少ないため判断保留"
+    },
+    {
+      "election_year": 2017,
+      "contrast": "野党→与党",
+      "treated_count": 4,
+      "control_count": 8,
+      "treated_clusters": 1,
+      "control_clusters": 2,
+      "estimate": null,
+      "ci_low": null,
+      "ci_high": null,
+      "interpretation": "比較条件・独立選挙区数が不足"
+    },
+    {
+      "election_year": 2021,
+      "contrast": "与党→野党",
+      "treated_count": 110,
+      "control_count": 256,
+      "treated_clusters": 20,
+      "control_clusters": 44,
+      "estimate": -3937.787071423985,
+      "ci_low": -44937.8079076627,
+      "ci_high": 37062.23376481473,
+      "interpretation": "現データでは明確な差を確認できず（影響なしの証明ではない）"
+    },
+    {
+      "election_year": 2021,
+      "contrast": "野党→与党",
+      "treated_count": 39,
+      "control_count": 36,
+      "treated_clusters": 5,
+      "control_clusters": 4,
+      "estimate": -409.67628303930525,
+      "ci_low": -9568.586740749883,
+      "ci_high": 8749.234174671272,
+      "interpretation": "交代した選挙区が少ないため判断保留"
+    }
+  ],
+  "independent_validation": {
+    "models": 24,
+    "max_coefficient_difference": 7.003109203651547e-11,
+    "max_se_difference": 7.248672773130238e-09,
+    "independent_reference": "statsmodels 0.15.0 OLS + cov_cluster CR1"
+  },
+  "tests": "22 passed",
+  "generated_tables": {
+    "alignment_cohorts": 3482,
+    "party_observations": 1162,
+    "grant_components": 17410,
+    "alignment_estimates": 32,
+    "alignment_samples": 4760,
+    "alignment_trends": 240,
+    "alignment_balances": 48
+  },
+  "unresolved": [
+    "前回・今回の総選挙の当選時党派を比較。期中の離党・党籍変更・補選・比例復活は未反映。",
+    "選挙区の自治体構成が同じことを確認した範囲。地理的境界の完全照合は未実施。",
+    "人口・財政力指数・都道府県・団体区分を調整するが、災害の全容、年齢構成、申請額、採択率等は未調整。",
+    "人口1人当たりの名目円。自治体を等しく重み付け。全国の共通変動は継続群との差で比較。",
+    "コロナ・災害控除は確認できた国庫支出金の内訳に限る。関連支出すべてを除外するものではない。",
+    "95%区間は各推定の区間で同時信頼区間ではない。主分析の複数比較はBH法で補正。",
+    "事前傾向に差を検出しなくても平行トレンドは証明されない。因果効果・政治的介入・個人の影響力は結論しない。"
+  ],
+  "party_history_status": "選挙時党派観測と政権参加期間を整備。議員個人の連続党籍履歴は未整備。",
+  "files": [
+    "alignment.py",
+    "analysis_view.py",
+    "app.py",
+    "data/analysis/analysis-report.json",
+    "data/analysis/estimates.csv",
+    "data/analysis/independent-validation.json"
+  ]
+}

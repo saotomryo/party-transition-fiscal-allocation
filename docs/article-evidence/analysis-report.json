@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-13",
+  "coalition_periods": [
+    {
+      "start": "2012-12-26",
+      "end_exclusive": "2024-04-01",
+      "period_kind": "本分析の確認対象期間（連立終了日ではない）",
+      "parties": [
+        "自由民主党",
+        "公明党"
+      ],
+      "sources": [
+        "https://www.komei.or.jp/news/detail/20121226_9916",
+        "https://www.komei.or.jp/news/detail/20171102_26181",
+        "https://www.komei.or.jp/komeinews/p120939/",
+        "https://www.jimin.jp/news/press/202278.html",
+        "https://www.komei.or.jp/about/history/"
+      ]
+    }
+  ],
+  "elections": [
+    2017,
+    2021
+  ],
+  "metric_labels": {
+    "national_grants": "国庫支出金",
+    "special_tax": "特別交付税",
+    "ordinary_tax": "普通交付税（制度算定の比較用）",
+    "national_grants_adjusted": "国庫支出金（確認できたコロナ・災害復旧交付金控除）"
+  },
+  "caveats": [
+    "前回・今回の総選挙の当選時党派を比較。期中の離党・党籍変更・補選・比例復活は未反映。",
+    "選挙区の自治体構成が同じことを確認した範囲。地理的境界の完全照合は未実施。",
+    "人口・財政力指数・都道府県・団体区分を調整するが、災害の全容、年齢構成、申請額、採択率等は未調整。",
+    "人口1人当たりの名目円。自治体を等しく重み付け。全国の共通変動は継続群との差で比較。",
+    "コロナ・災害控除は確認できた国庫支出金の内訳に限る。関連支出すべてを除外するものではない。",
+    "95%区間は各推定の区間で同時信頼区間ではない。主分析の複数比較はBH法で補正。",
+    "事前傾向に差を検出しなくても平行トレンドは証明されない。因果効果・政治的介入・個人の影響力は結論しない。"
+  ],
+  "cohort_counts": [
+    {
+      "election_year": 2017,
+      "transition": "与党→与党",
+      "exclusion_reason": "",
+      "municipalities": 823
+    },
+    {
+      "election_year": 2017,
+      "transition": "与党→与党",
+      "exclusion_reason": "同じ選挙区に名称対応未確認の地域あり",
+      "municipalities": 26
+    },
+    {
+      "election_year": 2017,
+      "transition": "与党→与党",
+      "exclusion_reason": "選挙区の自治体構成変更・区割り未対応",
+      "municipalities": 307
+    },
+    {
+      "election_year": 2017,
+      "transition": "与党→野党",
+      "exclusion_reason": "",
+      "municipalities": 61
+    },
+    {
+      "election_year": 2017,
+      "transition": "与党→野党",
+      "exclusion_reason": "同じ選挙区に名称対応未確認の地域あり",
+      "municipalities": 3
+    },
+    {
+      "election_year": 2017,
+      "transition": "与党→野党",
+      "exclusion_reason": "選挙区の自治体構成変更・区割り未対応",
+      "municipalities": 1
+    },
+    {
+      "election_year": 2017,
+      "transition": "未判別",
+      "exclusion_reason": "同じ選挙区に名称対応未確認の地域あり",
+      "municipalities": 1
+    },
+    {
+      "election_year": 2017,
+      "transition": "未判別",
+      "exclusion_reason": "無所属等の政権関係未判別",
+      "municipalities": 201
+    },
+    {
+      "election_year": 2017,
+      "transition": "未判別",
+      "exclusion_reason": "自治体・選挙区対応未確認",
+      "municipalities": 3
+    },
+    {
+      "election_year": 2017,
+      "transition": "未判別",
+      "exclusion_reason": "複数小選挙区の自治体",
+      "municipalities": 102
+    },
+    {
+      "election_year": 2017,
+      "transition": "未判別",
+      "exclusion_reason": "選挙区の自治体構成変更・区割り未対応",
+      "municipalities": 44
+    },
+    {
+      "election_year": 2017,
+      "transition": "野党→与党",
+      "exclusion_reason": "",
+      "municipalities": 21
+    },
+    {
+      "election_year": 2017,
+      "transition": "野党→与党",
+      "exclusion_reason": "選挙区の自治体構成変更・区割り未対応",
+      "municipalities": 39
+    },
+    {
+      "election_year": 2017,
+      "transition": "野党→野党",
+      "exclusion_reason": "",
+      "municipalities": 86
+    },
+    {
+      "election_year": 2017,
+      "transition": "野党→野党",
+      "exclusion_reason": "選挙区の自治体構成変更・区割り未対応",
+      "municipalities": 23
+    },
+    {
+      "election_year": 2021,
+      "transition": "与党→与党",
+      "exclusion_reason": "",
+      "municipalities": 1015
+    },
+    {
+      "election_year": 2021,
+      "transition": "与党→与党",
+      "exclusion_reason": "同じ選挙区に名称対応未確認の地域あり",
+      "municipalities": 13
+    },
+    {
+      "election_year": 2021,
+      "transition": "与党→野党",
+      "exclusion_reason": "",
+      "municipalities": 135
+    },
+    {
+      "election_year": 2021,
+      "transition": "与党→野党",
+      "exclusion_reason": "同じ選挙区に名称対応未確認の地域あり",
+      "municipalities": 8
+    },
+    {
+      "election_year": 2021,
+      "transition": "与党→野党",
+      "exclusion_reason": "選挙区の自治体構成変更・区割り未対応",
+      "municipalities": 7
+    },
+    {
+      "election_year": 2021,
+      "transition": "未判別",
+      "exclusion_reason": "同じ選挙区に名称対応未確認の地域あり",
+      "municipalities": 15
+    },
+    {
+      "election_year": 2021,
+      "transition": "未判別",
+      "exclusion_reason": "無所属等の政権関係未判別",
+      "municipalities": 268
+    },
+    {
+      "election_year": 2021,
+      "transition": "未判別",
+      "exclusion_reason": "自治体・選挙区対応未確認",
+      "municipalities": 5
+    },
+    {
+      "election_year": 2021,
+      "transition": "未判別",
+      "exclusion_reason": "複数小選挙区の自治体",
+      "municipalities": 97
+    },
+    {
+      "election_year": 2021,
+      "transition": "野党→与党",
+      "exclusion_reason": "",
+      "municipalities": 62
+    },
+    {
+      "election_year": 2021,
+      "transition": "野党→与党",
+      "exclusion_reason": "同じ選挙区に名称対応未確認の地域あり",
+      "municipalities": 3
+    },
+    {
+      "election_year": 2021,
+      "transition": "野党→野党",
+      "exclusion_reason": "",
+      "municipalities": 113
+    }
+  ],
+  "models": 32,
+  "estimated_models": 24,
+  "multiple_testing_family": "32 planned contrasts: 2 elections × 2 windows × 4 outcomes × 2 hypotheses. BH across estimable tests; pretrend family separately.",
+  "files": {
+    "alignment_cohorts": 3482,
+    "party_observations": 1162,
+    "grant_components": 17410,
+    "alignment_estimates": 32,
+    "alignment_samples": 4760,
+    "alignment_trends": 240,
+    "alignment_balances": 48
+  },
+  "party_history_status": "選挙時党派観測と政権参加期間を整備。議員個人の連続党籍履歴は未整備。"
+}

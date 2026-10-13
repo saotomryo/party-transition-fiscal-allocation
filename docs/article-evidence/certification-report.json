@@ -1,0 +1,45 @@
+{
+  "sources": [
+    {
+      "url": "https://www.soumu.go.jp/main_content/000328955.pdf",
+      "file": "data/elections/raw/main_content_000328955.pdf",
+      "sha256": "a5f2ccfdef8d02a6ea550250920f129a57684577f017e9876aa27a4d74399d42",
+      "bytes": 551007,
+      "cached": true,
+      "checked_at": "2026-10-12T03:18:11.338848+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000516731.xls",
+      "file": "data/elections/raw/main_content_000516731.xls",
+      "sha256": "5d7a6b262e092500ba1ac40c68a1692b91a63486a4aeec00b2c3f3d8022daf6a",
+      "bytes": 404480,
+      "cached": true,
+      "checked_at": "2026-10-12T03:18:18.170441+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000777792.pdf",
+      "file": "data/elections/raw/main_content_000777792.pdf",
+      "sha256": "bd49ecf048664f3c93a49f40a2b96bf2d7edb2698717287d395aefe1f7c68fe3",
+      "bytes": 1497936,
+      "cached": true,
+      "checked_at": "2026-10-12T03:18:18.452723+00:00"
+    },
+    {
+      "url": "https://www.soumu.go.jp/main_content/000979134.pdf",
+      "file": "data/elections/raw/main_content_000979134.pdf",
+      "sha256": "661f256e2b61efc55a1e3310e733d8d6153c0ebd6510ad3194235e115348bdaa",
+      "bytes": 698724,
+      "cached": true,
+      "checked_at": "2026-10-12T03:18:24.587443+00:00"
+    }
+  ],
+  "verified": 1161,
+  "unverified": [
+    {
+      "kaiji": 49,
+      "district": "大阪府第19区",
+      "leading_votes": 13295.0,
+      "certified_votes": 68209.0
+    }
+  ]
+}

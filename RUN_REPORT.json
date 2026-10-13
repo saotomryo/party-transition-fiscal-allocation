@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-12",
+  "status": "success",
+  "years": [
+    2015,
+    2024
+  ],
+  "rows": 17410,
+  "municipalities_per_year": {
+    "2015": 1741,
+    "2016": 1741,
+    "2017": 1741,
+    "2018": 1741,
+    "2019": 1741,
+    "2020": 1741,
+    "2021": 1741,
+    "2022": 1741,
+    "2023": 1741,
+    "2024": 1741
+  },
+  "historical_codes": 1743,
+  "missing": {
+    "code": 0,
+    "fiscal_year": 0,
+    "prefecture": 0,
+    "municipality": 0,
+    "municipality_type": 0,
+    "allocation_tax": 0,
+    "ordinary_tax": 0,
+    "special_tax": 0,
+    "reconstruction_tax": 0,
+    "national_grants": 0,
+    "fiscal_strength": 0,
+    "population": 0,
+    "population_date": 0,
+    "population_definition": 0,
+    "explanation_status": 0,
+    "allocation_tax_change": 1743,
+    "allocation_tax_pct": 1950,
+    "allocation_tax_per_capita": 0,
+    "ordinary_tax_change": 1743,
+    "ordinary_tax_pct": 2533,
+    "ordinary_tax_per_capita": 0,
+    "special_tax_change": 1743,
+    "special_tax_pct": 1950,
+    "special_tax_per_capita": 0,
+    "reconstruction_tax_change": 1743,
+    "reconstruction_tax_pct": 12351,
+    "reconstruction_tax_per_capita": 0,
+    "national_grants_change": 1743,
+    "national_grants_pct": 1743,
+    "national_grants_per_capita": 0
+  },
+  "network_files": 50,
+  "errors": [],
+  "files": [
+    "data/panel.parquet",
+    "data/finance.duckdb",
+    "data/collection-report.json"
+  ],
+  "not_implemented": [
+    "選挙データ結合",
+    "合併境界の遡及補正",
+    "変動理由の裏付け"
+  ],
+  "tests": "5 passed"
+}

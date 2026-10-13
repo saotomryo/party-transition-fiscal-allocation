@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-12",
+  "status": "success",
+  "network": {
+    "official_files": 341,
+    "collection_failures": []
+  },
+  "tables": {
+    "election_events": 4,
+    "election_districts": 1162,
+    "municipality_districts": 7903,
+    "election_candidates": 3869
+  },
+  "certified_winners": 1162,
+  "vote_matches": 1161,
+  "vote_disagreements": [
+    {
+      "kaiji": 49,
+      "district": "大阪府第19区",
+      "leading_votes": 13295.0,
+      "certified_votes": 68209.0
+    }
+  ],
+  "unmatched_local_labels": [
+    {
+      "kaiji": 48,
+      "election_date": "2017-10-22",
+      "prefecture": "東京都",
+      "district": "東京都第21区",
+      "local_label": "稲敷市(21区)",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000520898.xls",
+      "sheet": "東京都第21区"
+    },
+    {
+      "kaiji": 48,
+      "election_date": "2017-10-22",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第2区",
+      "local_label": "南薩摩市",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000520964.xls",
+      "sheet": "鹿児島県第２区"
+    },
+    {
+      "kaiji": 48,
+      "election_date": "2017-10-22",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第4区",
+      "local_label": "大崎市",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000520964.xls",
+      "sheet": "鹿児島県第４区"
+    },
+    {
+      "kaiji": 49,
+      "election_date": "2021-10-31",
+      "prefecture": "東京都",
+      "district": "東京都第21区",
+      "local_label": "稲敷市(21区)",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000785217.xls",
+      "sheet": "東京都第21区"
+    },
+    {
+      "kaiji": 49,
+      "election_date": "2021-10-31",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第3区",
+      "local_label": "始良市",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000785283.xls",
+      "sheet": "鹿児島県第３区"
+    },
+    {
+      "kaiji": 49,
+      "election_date": "2021-10-31",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第3区",
+      "local_label": "清水町",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000785283.xls",
+      "sheet": "鹿児島県第３区"
+    },
+    {
+      "kaiji": 49,
+      "election_date": "2021-10-31",
+      "prefecture": "鹿児島県",
+      "district": "鹿児島県第4区",
+      "local_label": "大崎市",
+      "code": null,
+      "mapping_status": "名称対応未確認",
+      "source_url": "https://www.soumu.go.jp/main_content/000785283.xls",
+      "sheet": "鹿児島県第４区"
+    }
+  ],
+  "source_data_issues": [
+    {
+      "issue_type": "vote_sum_mismatch",
+      "kaiji": 48,
+      "prefecture": "福井県",
+      "district": "福井県第1区",
+      "source_url": "https://www.soumu.go.jp/main_content/000520908.xls",
+      "details": [
+        {
+          "candidate_column": 1,
+          "local_sum": 43406.0,
+          "district_total": 22931.0
+        },
+        {
+          "candidate_column": 2,
+          "local_sum": 223384.0,
+          "district_total": 116969.0
+        },
+        {
+          "candidate_column": 3,
+          "local_sum": 122440.0,
+          "district_total": 64086.0
+        }
+      ]
+    },
+    {
+      "issue_type": "vote_sum_mismatch",
+      "kaiji": 49,
+      "prefecture": "宮城県",
+      "district": "宮城県第3区",
+      "source_url": "https://www.soumu.go.jp/main_content/000785199.xls",
+      "details": [
+        {
+          "candidate_column": 4,
+          "local_sum": 5890.0,
+          "district_total": 5716.0
+        }
+      ]
+    },
+    {
+      "issue_type": "missing_candidate_total",
+      "kaiji": 49,
+      "prefecture": "神奈川県",
+      "district": "神奈川県第9区",
+      "source_url": "https://www.soumu.go.jp/main_content/000785219.xls",
+      "candidate": "吉田大成",
+      "derived_votes": 24547.0
+    },
+    {
+      "issue_type": "vote_sum_mismatch",
+      "kaiji": 49,
+      "prefecture": "大阪府",
+      "district": "大阪府第19区",
+      "source_url": "https://www.soumu.go.jp/main_content/000785245.xls",
+      "details": [
+        {
+          "candidate_column": 1,
+          "local_sum": 9258.0,
+          "district_total": 2133.0
+        },
+        {
+          "candidate_column": 2,
+          "local_sum": 52052.0,
+          "district_total": 10796.0
+        },
+        {
+          "candidate_column": 3,
+          "local_sum": 68209.0,
+          "district_total": 13295.0
+        },
+        {
+          "candidate_column": 4,
+          "local_sum": 32193.0,
+          "district_total": 6588.0
+        }
+      ]
+    }
+  ],
+  "tests": "12 passed",
+  "ui": "変化率順位・2024事後データ不足・2021前後比較・複数選挙区を確認",
+  "limitations": [
+    "2015–2024財政範囲。2024選挙後の2025年度決算は未収録",
+    "区割り・合併の遡及補正なし",
+    "参院・首長・比例復活・補選・党籍変更は未収録",
+    "政治的介入・因果効果を推定しない"
+  ]
+}

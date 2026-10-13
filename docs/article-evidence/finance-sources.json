@@ -1,0 +1,371 @@
+{
+  "sources": [
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20160&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2016-index.html",
+      "bytes": 388668,
+      "sha256": "ae74fc199ad34566e780b4bfd9bdd17be1aaeca36bd809b16a08dcd5d5464798",
+      "checked_at": "2026-10-12T01:59:50.679868+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20160",
+      "file": "data/raw/00200241-2016-index.html",
+      "bytes": 267210,
+      "sha256": "d3e27cd6c5fdeb6506951374d7870c1eee1f0c6401ec509a0d3189aa25298982",
+      "checked_at": "2026-10-12T01:59:50.737388+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031560298&fileKind=1",
+      "file": "data/raw/2015-revenue.csv",
+      "bytes": 1744088,
+      "sha256": "1ff61d1fc6033d5521fa8ca2b7c5ccb3bc16ef9509af308cb7aa5adbebbecced",
+      "checked_at": "2026-10-12T01:59:50.780700+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031560293&fileKind=1",
+      "file": "data/raw/2015-cover.csv",
+      "bytes": 453858,
+      "sha256": "7d9bdcea4736b7919dae58acb984c65c86bd6e78e6a5ebb2bc13b8c9c52402f7",
+      "checked_at": "2026-10-12T01:59:50.782791+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031430150&fileKind=0",
+      "file": "data/raw/2015-population.xlsx",
+      "bytes": 672768,
+      "sha256": "843c8063f9a82d3f67bf67bf0391b40b0fc80e02b35ed0adaac30a17c3cb9f65",
+      "checked_at": "2026-10-12T01:59:50.785069+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20170&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2017-index.html",
+      "bytes": 386758,
+      "sha256": "8378ed2cb575194afa970a2a14725d5b4387caec3c1eac847135a8c22c4fbe79",
+      "checked_at": "2026-10-12T01:59:50.966675+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20170",
+      "file": "data/raw/00200241-2017-index.html",
+      "bytes": 266255,
+      "sha256": "1b6e0568808836d87e7fef86d42984a913a27df9494ccbf4333569c6833e4226",
+      "checked_at": "2026-10-12T01:59:51.014260+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031641205&fileKind=1",
+      "file": "data/raw/2016-revenue.csv",
+      "bytes": 1734012,
+      "sha256": "ee06982fecdab43aa219ce6b5ffdd4629c71a395459e55178c0ea8b4df434b33",
+      "checked_at": "2026-10-12T01:59:51.057219+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031641200&fileKind=1",
+      "file": "data/raw/2016-cover.csv",
+      "bytes": 451986,
+      "sha256": "09d1a45893e7fc2730083723f8a4e60e887c5f0008f5beac2228c8a368a2917b",
+      "checked_at": "2026-10-12T01:59:51.058828+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031598538&fileKind=0",
+      "file": "data/raw/2016-population.xlsx",
+      "bytes": 673792,
+      "sha256": "d354ededc923561fce0eaedfd1ea0cfff004d3d0541aca6891e37ccea5554ecf",
+      "checked_at": "2026-10-12T01:59:51.061274+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20180&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2018-index.html",
+      "bytes": 395694,
+      "sha256": "c17c1641b5ab90efe4bf88d20f92d9647d2ce972706d0d8ee33ba687e9ad24d6",
+      "checked_at": "2026-10-12T01:59:51.183559+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20180",
+      "file": "data/raw/00200241-2018-index.html",
+      "bytes": 269641,
+      "sha256": "dba7a621fc3b0a5b947b4246c78e268d7fa99341e8dbe88a11599d65209bd06a",
+      "checked_at": "2026-10-12T01:59:51.231059+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031771148&fileKind=1",
+      "file": "data/raw/2017-revenue.csv",
+      "bytes": 1729611,
+      "sha256": "360b308fa482cee185f07f3d1bd300ba7a0417352caba4af33faf335579a9de1",
+      "checked_at": "2026-10-12T01:59:51.292404+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031771143&fileKind=1",
+      "file": "data/raw/2017-cover.csv",
+      "bytes": 450644,
+      "sha256": "d4afb714f61ebc4b5dcbe326330630816a6eeec0fa54be36f5b5699df8c257df",
+      "checked_at": "2026-10-12T01:59:51.294465+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031736913&fileKind=0",
+      "file": "data/raw/2017-population.xlsx",
+      "bytes": 673280,
+      "sha256": "0e1f74c68a63a59be09b2a784dd1183544f99bd54eb2a2b4971facfb5cd3c9ac",
+      "checked_at": "2026-10-12T01:59:51.297049+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20190&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2019-index.html",
+      "bytes": 396510,
+      "sha256": "d3591e29304a45b802d6f884f9b4eb1a409554b5b18e0618ab08f2b023d68f9b",
+      "checked_at": "2026-10-12T01:59:51.419020+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20190",
+      "file": "data/raw/00200241-2019-index.html",
+      "bytes": 269336,
+      "sha256": "2637496cb8ad83c59cccb0e1ae0b2369c03a38cb245a3a727e090ba2b0b11cf3",
+      "checked_at": "2026-10-12T01:59:51.467077+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031885609&fileKind=1",
+      "file": "data/raw/2018-revenue.csv",
+      "bytes": 1764167,
+      "sha256": "e7b5b08fced5fb20570c00ef60c9057d6cda4a4ffc96e2dffa2a0f9c3a004547",
+      "checked_at": "2026-10-12T01:59:51.540099+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031885604&fileKind=1",
+      "file": "data/raw/2018-cover.csv",
+      "bytes": 449113,
+      "sha256": "c6abc0a246ca5de3ad515d40e262df65438afd94fe6fb55dc217b0ce181a9bac",
+      "checked_at": "2026-10-12T01:59:51.541932+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031843908&fileKind=0",
+      "file": "data/raw/2018-population.xlsx",
+      "bytes": 673792,
+      "sha256": "992746fefaec2616a7072a64add8a9abfb70cc26360df2ff26e958de924ce6c0",
+      "checked_at": "2026-10-12T01:59:51.544588+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20200&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2020-index.html",
+      "bytes": 371379,
+      "sha256": "e3b7cf148716fcef2a1a0ab6d8cc936cc1c36fe0e6e75d76d0ed1e7470ddcd3e",
+      "checked_at": "2026-10-12T01:59:51.663516+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20200",
+      "file": "data/raw/00200241-2020-index.html",
+      "bytes": 277062,
+      "sha256": "45de08bb55dcc03f782571f362adc683eae52ff494fdc0281a8b3e0ff8d243cb",
+      "checked_at": "2026-10-12T01:59:51.727518+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032091976&fileKind=1",
+      "file": "data/raw/2019-revenue.csv",
+      "bytes": 1831340,
+      "sha256": "2165aeaa36215606d69e5c9062202d423e19878eb150381f4ddc07de34a1bb3a",
+      "checked_at": "2026-10-12T01:59:51.772100+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032091971&fileKind=1",
+      "file": "data/raw/2019-cover.csv",
+      "bytes": 443566,
+      "sha256": "09e1471ad5addb3d98c61cd9badee5eba0abc90cc8f6227648b201bbe338f33d",
+      "checked_at": "2026-10-12T01:59:51.774042+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031971203&fileKind=0",
+      "file": "data/raw/2019-population.xlsx",
+      "bytes": 673792,
+      "sha256": "65da53be4fde4c33d0af5c7d225f600bf5f22d961c62e6efc37d3e9c0d9b1011",
+      "checked_at": "2026-10-12T01:59:51.776650+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20210&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2021-index.html",
+      "bytes": 371407,
+      "sha256": "d099523acb231c92eba1c2dd58e42c79530644569f383598d7ab8b18cc1d8da1",
+      "checked_at": "2026-10-12T01:59:51.898182+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20210",
+      "file": "data/raw/00200241-2021-index.html",
+      "bytes": 264478,
+      "sha256": "d5de5b0a9a8f2be48ab3250f107e35d1093d2a96ef811651f2a07b6c6e952c7a",
+      "checked_at": "2026-10-12T01:59:51.942865+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032188698&fileKind=1",
+      "file": "data/raw/2020-revenue.csv",
+      "bytes": 1882979,
+      "sha256": "fc67dccbf581fed0a4daf8247a5a7f7fb26b18ddebaf7faecf2fed6ecde90532",
+      "checked_at": "2026-10-12T01:59:51.987047+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032188693&fileKind=1",
+      "file": "data/raw/2020-cover.csv",
+      "bytes": 439986,
+      "sha256": "d6402b21594dda2e1a6dc474224a3760bb26a5f3d7e52afd86e9c5d4b0d36eac",
+      "checked_at": "2026-10-12T01:59:51.988985+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040306659&fileKind=0",
+      "file": "data/raw/2020-population.xlsx",
+      "bytes": 461949,
+      "sha256": "a38f7539e1587ed95d22fd8c12e151ac11697e9f0c95b1ab1ce5cc99656a3ce3",
+      "checked_at": "2026-10-12T01:59:51.990952+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20220&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2022-index.html",
+      "bytes": 371407,
+      "sha256": "ab8bcaeb33081f1d0c23dee4114433c964baa65a2dd895e6b789a1afa00566db",
+      "checked_at": "2026-10-12T01:59:52.336121+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20220",
+      "file": "data/raw/00200241-2022-index.html",
+      "bytes": 266943,
+      "sha256": "740dee0da026a437b7ede066a96325bd6991526bf9bc9fd05341afd055d3649e",
+      "checked_at": "2026-10-12T01:59:52.380323+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040044921&fileKind=1",
+      "file": "data/raw/2021-revenue.csv",
+      "bytes": 1889893,
+      "sha256": "c008087e8d1aae2c8c4a14488bf0120b78668407ab8ddbfb35b7bd12f802465a",
+      "checked_at": "2026-10-12T01:59:52.423881+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040044696&fileKind=1",
+      "file": "data/raw/2021-cover.csv",
+      "bytes": 439199,
+      "sha256": "73c12d0248fa49cc5f061720f25d679302d759cee5e6ae5a67247cec5390fbe8",
+      "checked_at": "2026-10-12T01:59:52.425386+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032224636&fileKind=0",
+      "file": "data/raw/2021-population.xlsx",
+      "bytes": 464298,
+      "sha256": "72d4da673c384d824fd24f4ec3802e3c179183b5c3bcb67699b32e0eeb95a9f7",
+      "checked_at": "2026-10-12T01:59:52.427263+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20230&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2023-index.html",
+      "bytes": 371407,
+      "sha256": "2b2b0cf1a762c544f1e720131e143a302e78860f1e4c9bd502827fd06523849d",
+      "checked_at": "2026-10-12T01:59:52.662898+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20230",
+      "file": "data/raw/00200241-2023-index.html",
+      "bytes": 268525,
+      "sha256": "52f6b1a416cb2b78dcf8ee927673246d609ea440af63eb99afa6cd590afdda51",
+      "checked_at": "2026-10-12T01:59:52.723349+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040171702&fileKind=1",
+      "file": "data/raw/2022-revenue.csv",
+      "bytes": 1895022,
+      "sha256": "5791cd2c45a95b5cc43b03e1d6ccec55a12d094f1e17158ddc1cccf4d68d0eec",
+      "checked_at": "2026-10-12T01:59:52.767823+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040171677&fileKind=1",
+      "file": "data/raw/2022-cover.csv",
+      "bytes": 436459,
+      "sha256": "8512dd6f2f1e5c9ca4c6cbd166e1a824a11e77ec804db5541c930b262689214e",
+      "checked_at": "2026-10-12T01:59:52.769809+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040306647&fileKind=0",
+      "file": "data/raw/2022-population.xlsx",
+      "bytes": 465432,
+      "sha256": "09a35646f7dea3ea738be03cf03b70bccecffe55f916dd4d29a1d87cb722d100",
+      "checked_at": "2026-10-12T01:59:52.771627+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20240&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2024-index.html",
+      "bytes": 372362,
+      "sha256": "60f5c1e6b0f42a2030df578dbc2b8eec556ba8238b2ace2888631dd693c59fe6",
+      "checked_at": "2026-10-12T01:59:53.005661+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20240",
+      "file": "data/raw/00200241-2024-index.html",
+      "bytes": 265204,
+      "sha256": "de21fe15354f4a7ffb97dcf1199203435436812cabfd4b9bfd17d3d6d5f3399c",
+      "checked_at": "2026-10-12T01:59:53.049797+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040231591&fileKind=1",
+      "file": "data/raw/2023-revenue.csv",
+      "bytes": 1868136,
+      "sha256": "2f44bb7099bfc6525998be8e0f154f11d29f7c20da2e2002d63d7277cc4d1a99",
+      "checked_at": "2026-10-12T01:59:53.092737+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040231586&fileKind=1",
+      "file": "data/raw/2023-cover.csv",
+      "bytes": 434176,
+      "sha256": "2559b5fb84430584aa76439293a8157af466bc8d756186f608afd58ffd44ddaf",
+      "checked_at": "2026-10-12T01:59:53.094797+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040306672&fileKind=0",
+      "file": "data/raw/2023-population.xlsx",
+      "bytes": 478202,
+      "sha256": "f76c54a5f59f1e78a53910a649d96fa24001bfd2efc5d91ecef66b4849bb246b",
+      "checked_at": "2026-10-12T01:59:53.096639+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200251&year=20250&tstat=000001077755&tclass1=000001077756&tclass2=000001077757",
+      "file": "data/raw/00200251-2025-index.html",
+      "bytes": 371416,
+      "sha256": "46ea890489fe6d43f9c02b6f134fdc66bd1158615b20b796bd4da49b035ebe2b",
+      "checked_at": "2026-10-12T01:59:53.341599+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&toukei=00200241&year=20250",
+      "file": "data/raw/00200241-2025-index.html",
+      "bytes": 256014,
+      "sha256": "314ddaf91ee5239b077428f816d766b9d3386b3b2087496ed01293b8c1ea0647",
+      "checked_at": "2026-10-12T01:59:53.386443+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040375638&fileKind=1",
+      "file": "data/raw/2024-revenue.csv",
+      "bytes": 1865651,
+      "sha256": "7f47a972b0501242f1dfd522bbf722adb0eb8401efffc768715b73e49d400a31",
+      "checked_at": "2026-10-12T01:59:53.428818+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040375633&fileKind=1",
+      "file": "data/raw/2024-cover.csv",
+      "bytes": 432148,
+      "sha256": "39a9ae1e4725543abed9271bdbdb6c2af3b317f439e6999dfc9e8ebc06eb1bf5",
+      "checked_at": "2026-10-12T01:59:53.430273+00:00"
+    },
+    {
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040306653&fileKind=0",
+      "file": "data/raw/2024-population.xlsx",
+      "bytes": 473583,
+      "sha256": "5e6c474d2b0c89e6006b8ccca844b7422c3d867e2444e3f5ef14627b2bc06f8a",
+      "checked_at": "2026-10-12T01:59:53.432113+00:00"
+    }
+  ],
+  "failures": [],
+  "requested_years": [
+    2015,
+    2024
+  ],
+  "successful_years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ]
+}
