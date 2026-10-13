@@ -1,0 +1,57 @@
+{
+  "snapshot_date": "2026-10-13",
+  "source": "総務省・政府統計の総合窓口(e-Stat)の公開統計・衆院選結果を加工",
+  "processed_by": "party-transition-fiscal-allocation",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1329,
+      "sha256": "d66438cc81621725f0d3c0b8ab7c05caa3f3436e89e4b480b5878d44c069a2cb"
+    },
+    {
+      "path": "analysis/alignment_balances.parquet",
+      "bytes": 5632,
+      "sha256": "00d6a37c00e6135d33508361ef20c66baaf638251f1bf5d54d125b722793654d"
+    },
+    {
+      "path": "analysis/alignment_cohorts.parquet",
+      "bytes": 74849,
+      "sha256": "b4ee0be82a576dd916284fe00103ab13ba09dcfc2c1bbdefdf24febe632bb1b2"
+    },
+    {
+      "path": "analysis/alignment_estimates.parquet",
+      "bytes": 26655,
+      "sha256": "f2fce30d9ef8de99994bf332b3d62744b1dfe914242e42b172af3d120cd23fd0"
+    },
+    {
+      "path": "analysis/alignment_samples.parquet",
+      "bytes": 206329,
+      "sha256": "72b4686d7f5bd2fb9040fb991116996dea786971e10c9d843baea7ab47330fd2"
+    },
+    {
+      "path": "analysis/alignment_trends.parquet",
+      "bytes": 7291,
+      "sha256": "57a3e27665fce78702894ff02c79afc4be8a6eed4c5ab9a1f334aa7b30f4b70e"
+    },
+    {
+      "path": "analysis/analysis-report.json",
+      "bytes": 7090,
+      "sha256": "abe03f06c9fe42bb791d14905a5b833c1cab3447b035fba3019003e7fde41e01"
+    },
+    {
+      "path": "analysis/grant_components.parquet",
+      "bytes": 163331,
+      "sha256": "ceddabd6bc5b3a81b6a0fc8028247537f504179c739f0869d949033079af4fc2"
+    },
+    {
+      "path": "analysis/party_observations.parquet",
+      "bytes": 84846,
+      "sha256": "04382816f7ba4ce42c2022b1b574573c30f3748879e7341a75c833853d6fdeb8"
+    },
+    {
+      "path": "panel.parquet",
+      "bytes": 545609,
+      "sha256": "649fa5d1b67418b697bd1e2cfddc11e08ac80295f34cbed7a347d5829883fcd7"
+    }
+  ]
+}

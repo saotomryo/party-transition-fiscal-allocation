@@ -154,3 +154,11 @@ python3 -m venv .venv
 ## 公開画面の整理（2026-10-13）
 
 公開方式はStreamlit。app.pyは「党派交代と財政配分の全国比較」のみを表示。考察・仮説判断の表示は除き、数値・方法・注釈を表示する。自治体画面はmunicipality_view.pyに保持し、必要時に `.venv/bin/streamlit run municipality_view.py` で起動できる。公開画面への再接続は後日可能。現在はローカル実行のみで、外部公開は未実施。
+
+## Streamlit Community Cloudでの公開
+
+Gitに含めたpublic_data/の加工済み固定版を読み込むため、サーバーでe-StatへのアクセスやAPIキーは不要。原本data/は引き続き非配布。自治体確認の保存用画面は従来のdata/を必要とする。
+
+Community Cloudでリポジトリ `saotomryo/party-transition-fiscal-allocation`、ブランチ `main`、エントリポイント `app.py`、Python `3.12`を指定する。依存はrequirements.txt。Secretsの設定は不要。クラウドへの実際のデプロイとクラウド環境での確認は別途行う。
+
+配布データの出典・加工表示はpublic_data/README.mdとアプリ内に掲載。原本再取得後の配布更新は `.venv/bin/python scripts/package_public_data.py` を実行してコミットする。

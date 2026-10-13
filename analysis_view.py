@@ -9,9 +9,12 @@ import streamlit as st
 from alignment import OUTCOMES,CONTRASTS,CAVEATS,aggregate_window
 from finance import ROOT
 
+# Public dashboard always uses the versioned, bundled snapshot.
+DATA_ROOT=ROOT/'public_data'
+
 @st.cache_data
 def load_analysis(signature):
-    folder=ROOT/'data/analysis'
+    folder=DATA_ROOT/'analysis'
     return {name:pd.read_parquet(folder/f'{name}.parquet') for name in ['alignment_estimates','alignment_cohorts','alignment_samples','alignment_trends','alignment_balances','party_observations']}
 
 GROUPS=['与党→与党','与党→野党','野党→与党','野党→野党']
@@ -29,14 +32,14 @@ def four_group_amounts(panel,cohort,year,width,metric):
 
 @st.cache_data
 def load_overview_panel(signature):
-    panel=pd.read_parquet(ROOT/'data/panel.parquet')
-    parts=pd.read_parquet(ROOT/'data/analysis/grant_components.parquet')
+    panel=pd.read_parquet(DATA_ROOT/'panel.parquet')
+    parts=pd.read_parquet(DATA_ROOT/'analysis/grant_components.parquet')
     panel=panel.merge(parts,on=['code','fiscal_year'],validate='one_to_one')
     panel['national_grants_adjusted']=panel.national_grants-panel.identified_covid_grants-panel.disaster_recovery_grants
     return panel
 
 def render():
-    folder=ROOT/'data/analysis';p=folder/'alignment_estimates.parquet'
+    folder=DATA_ROOT/'analysis';p=folder/'alignment_estimates.parquet'
     st.caption('近年の衆院選：2017年・2021年')
     st.caption('2017年・2021年の選挙について、変動の小さい自治体も含めて比較します。財政データは2015〜2024年度です。')
     st.warning('これは総選挙当選時の党派による探索的比較です。議員の期中の党籍変更・補選・比例復活は未反映で、予算決定時点の所属まで確認した因果検証には至っていません。')
@@ -52,7 +55,7 @@ def render():
     st.write(f'**{target}** の地域を、**{CONTRASTS[target]}** が継続した地域と比較します。')
     st.caption(f'選挙前：{chosen.pre_years}年度 / 選挙後：{chosen.post_years}年度。{year}年度は選挙実施年度として計算から分けます。')
     st.subheader('4分類の全体傾向：増加か減少か')
-    panel=load_overview_panel(((ROOT/'data/panel.parquet').stat().st_mtime_ns,(folder/'grant_components.parquet').stat().st_mtime_ns))
+    panel=load_overview_panel(((DATA_ROOT/'panel.parquet').stat().st_mtime_ns,(folder/'grant_components.parquet').stat().st_mtime_ns))
     overview=four_group_amounts(panel,cohort,year,width,metric)
     st.dataframe(overview,hide_index=True,width='stretch',column_config={name:st.column_config.NumberColumn(format='%.1f') for name in ['選挙前（円／人）','選挙後（円／人）','増減額（円／人）','変化率（参考・%）']})
     bars=px.bar(overview,x='区分',y='増減額（円／人）',color='全体傾向',color_discrete_map={'増加':'#2463A6','減少':'#D16A46','横ばい':'#888'},text_auto=',.0f')
@@ -113,6 +116,10 @@ def render():
             balance['variable']=balance.variable.map({'population_pre':'選挙前人口','strength_pre':'選挙前財政力指数'})
             st.dataframe(balance[['variable','treated_mean','control_mean','standardized_difference']].rename(columns={'variable':'項目','treated_mean':'交代群の平均','control_mean':'継続群の平均','standardized_difference':'調整前の標準化差'}),hide_index=True)
             st.caption('回帰調整前の差です。大きな差がある場合、調整後推定への依存が強くなります。')
+    with st.expander('出典・加工内容・データ配布'):
+        st.markdown('[出典：政府統計の総合窓口(e-Stat)](https://www.e-stat.go.jp/)・総務省の地方財政状況調査、住民基本台帳人口、衆院選公式結果。')
+        st.write('公開資料を本プロジェクトが自治体コードで結合し、金額の円換算・人口当たり換算・党派分類・前後平均・条件調整を実施。政府が作成・公表した分析結果ではありません。データは2026年10月13日保存の固定版です。')
+        st.markdown('[利用条件](https://www.e-stat.go.jp/terms-of-use) / [配布データと説明](https://github.com/saotomryo/party-transition-fiscal-allocation/tree/main/public_data)')
     with st.expander('分析範囲・政権判定の根拠'):
         for caveat in CAVEATS:st.write('・'+caveat)
         st.write('今回の2015〜2023年度の比較期間では、自民党・公明党を連立参加政党として判定。期間外への自動延長はしません。')
